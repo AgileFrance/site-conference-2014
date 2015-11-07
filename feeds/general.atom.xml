@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Conférence Agile France 2014</title><link href="http://www.conference-agile.fr/" rel="alternate"></link><link href="http://www.conference-agile.fr/feeds/general.atom.xml" rel="self"></link><id>http://www.conference-agile.fr/</id><updated>2014-06-09T15:27:00+02:00</updated><entry><title>Comptes 2014</title><link href="http://www.conference-agile.fr/comptes-2014.html" rel="alternate"></link><updated>2014-06-09T15:27:00+02:00</updated><author><name>L'équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-06-09:comptes-2014.html</id><summary type="html">&lt;p&gt;Vous trouverez prochainement ici les comptes de la conférence Agile France 2014.&lt;/p&gt;</summary></entry><entry><title>Agile France 2014 en mots et en images...</title><link href="http://www.conference-agile.fr/agile-france-2014-en-mots-et-en-images.html" rel="alternate"></link><updated>2014-06-01T00:00:00+02:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-06-01:agile-france-2014-en-mots-et-en-images.html</id><summary type="html">&lt;h2&gt;Agile France 2014 en quelques mots&lt;/h2&gt;
+&lt;p&gt;Merci à tous ceux qui font partager ce qu'ils ont vécu, apprécié, appris... durant cette édition 2014&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.agilex.fr/2014/05/retour-sur-agile-france-2014/"&gt;Retour sur Agile France 2014&lt;/a&gt;, par Alexandre Boutin&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://freethinker.addinq.uy/post/86940308452/carnet-de-route-agile-france-2014-1-4"&gt;Carnet de route : Agile France 2014 (1/4)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://freethinker.addinq.uy/post/87337149477/carnet-de-route-agile-france-2014-2-4"&gt;Carnet de route : Agile France 2014 (2/4)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://freethinker.addinq.uy/post/88115912577/carnet-de-route-agile-france-2014-3-4"&gt;Carnet de route : Agile France 2014 (3/4)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://freethinker.addinq.uy/post/88513954672/carnet-de-route-agile-france-2014-4-4"&gt;Carnet de route : Agile France 2014 (4/4)&lt;/a&gt;&lt;br /&gt;
+par Christophe Addinquy  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.barreverte.fr/notes-sur-lagile-conference-2014"&gt;Notes sur l’Agile Conférence 2014&lt;/a&gt;, par Bruno Thomas&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://scrumembear.blogspot.fr/2014/05/agile-france-first-impressions-are.html"&gt;Agile France - first impressions are often correct...&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://scrumembear.blogspot.fr/2014/05/the-economy-of-s-miles.html"&gt;The economy of s-miles&lt;/a&gt;&lt;br /&gt;
+par Dov Tsal Sela  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.soat.fr/2014/05/agile-france-2014-projets-agile-arretez-les-derives/"&gt;(Agile France 2014) Projets Agile : Arrêtez les dérives !&lt;/a&gt;, par Patrick Bobo&lt;br /&gt;
+&lt;a href="http://blog.soat.fr/2014/05/agile-france-2014-lamelioration-continue-au-supermarche/"&gt;(Agile France 2014) L’amélioration continue au supermarché&lt;/a&gt;, par Vincent Uribe&lt;br /&gt;
+&lt;a href="http://blog.soat.fr/2014/06/agile-france-2014-cadrer-un-projet-agile/"&gt;(Agile France 2014) Cadrer un projet Agile&lt;/a&gt;, par Pascal Poussard&lt;br /&gt;
+&lt;a href="http://blog.soat.fr/2014/06/agile-france-2014-le-retour-dexperience-dun-maitre-de-donjons-et-dragons-sur-le-management-ou-comment-trouver-son-style/"&gt;(Agile France 2014) Le retour d’expérience d’un maître de Donjons et Dragons sur le management, ou comment trouver son style&lt;/a&gt;, par Lydie Huon&lt;br /&gt;
+&lt;a href="http://blog.soat.fr/2014/06/agile-france-2014-generation-agyle/"&gt;(Agile France 2014) Génération agYle&lt;/a&gt;, par Olivier Le Lan   &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://blog.xebia.fr/2014/05/28/retour-sur-agile-france-2014-comment-cadrer-un-projet-agile/"&gt;Retour sur Agile France 2014 : Comment cadrer un projet agile ?&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://blog.xebia.fr/2014/06/04/retour-sur-agile-france-2014-petits-outils-de-management-agile-a-lusage-des-honnetes-managers/"&gt;Retour sur Agile France 2014 : Petits Outils de Management Agile à l’usage des… Honnêtes Managers !&lt;/a&gt;&lt;br /&gt;
+par Couthaïer Farfra  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.agilegarden.fr/agile-france-2014-une-excellente-cuvee/"&gt;Agile France 2014, une excellente cuvée&lt;/a&gt;, par Pierrick Thibault  &lt;/p&gt;
+&lt;p&gt;Retrouvez également &lt;a href="http://2014.conference-agile.fr/slides-des-sessions.html"&gt;les slides des sessions&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Agile France 2014 en images&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://photos.seeshoot.com/agile-france-2014"&gt;Les photos de Christopher&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/31719094@N04/sets/72157644815216765/"&gt;Les photos de Bruno&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Vous avez vu d'autres retours qui ne sont pas ici ? Vite, dites-le nous pour que nous puissions enrichir cette page... Merci.&lt;/p&gt;</summary><category term="conference"></category><category term="photos"></category><category term="compte-rendus"></category></entry><entry><title>Slides des sessions</title><link href="http://www.conference-agile.fr/slides-des-sessions.html" rel="alternate"></link><updated>2014-05-29T21:55:00+02:00</updated><author><name>Frederic Merizen</name></author><id>tag:www.conference-agile.fr,2014-05-29:slides-des-sessions.html</id><summary type="html">&lt;p&gt;Nous rassemblons ici les slides des sessions présentées à Agile France 2014.&lt;/p&gt;
+&lt;p&gt;Il en manque ? Contacte nous vite pour que nous complétions la liste !&lt;/p&gt;</summary><category term="sessions"></category><category term="slides"></category></entry><entry><title>Pitchs vidéo des sessions</title><link href="http://www.conference-agile.fr/pitchs-video.html" rel="alternate"></link><updated>2014-05-21T12:35:00+02:00</updated><author><name>Frederic Merizen</name></author><id>tag:www.conference-agile.fr,2014-05-21:pitchs-video.html</id><summary type="html">&lt;p&gt;Voici les teasers vidéo des sessions pour Agile France 2014.&lt;/p&gt;
+&lt;p&gt;Il en manque ? Contacte nous vite pour que nous complétions la liste !&lt;/p&gt;</summary><category term="sessions"></category><category term="pitchs"></category></entry><entry><title>Agile France 2014, c'est (presque) maintenant ! Dernières infos...</title><link href="http://www.conference-agile.fr/agile-france-2014-c-est-presque-maintenant.html" rel="alternate"></link><updated>2014-05-20T00:00:00+02:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-05-20:agile-france-2014-c-est-presque-maintenant.html</id><summary type="html">&lt;p&gt;Un petit récap’, ça ne fait jamais de mal, et à deux jours de la conférence, nous pensons que le timing de ce billet est adapté !&lt;br /&gt;
+C'est un peu long, on en a conscience, et vous n’êtes pas obligé de tout lire. Mais au moins, parcourez le en diagonale, vous y glanerez sûrement quelques infos :-)&lt;br /&gt;
+Alors ouvrez grand vos yeux, c’est parti !&lt;/p&gt;
+&lt;h3&gt;Concernant le programme&lt;/h3&gt;
+&lt;p&gt;Alors il faut savoir que chez Agile France, on en a marre de tuer des ours blancs.
+Du coup, on a décidé de ne pas vous distribuer de programme détaillé sur place.
+En revanche :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;on vous distribuera un petit agenda avec votre porte-badge     &lt;/li&gt;
+&lt;li&gt;on affichera un peu partout des agendas grand-format   &lt;/li&gt;
+&lt;li&gt;il y aura un pitch des sessions chaque matin, où les orateurs feront preuve d’audace et de créativité  pour vous attirer à leur session (et vous raconter un peu ce qu’il y a dedans !),   &lt;/li&gt;
+&lt;li&gt;nous vous encourageons à préparer vos deux journées en regardant le détail des sessions sur le site,   &lt;/li&gt;
+&lt;li&gt;vous pouvez aussi aller jeter un oeil (pas trop fort...) sur les &lt;a href="https://www.youtube.com/playlist?list=PL8j4HMpu-V75BnDaHOW5ecEcoRU7Mz0Kq"&gt;pitchs vidéos&lt;/a&gt;,     &lt;/li&gt;
+&lt;li&gt;si vous avez un smartphone (ouais, ok, c’est peu probable…  ), vous pouvez aussi télécharger l’application « Lanyrd » (&lt;a href="https://play.google.com/store/apps/details?id=com.lanyrd.lanyrd"&gt;ici pour Android&lt;/a&gt;, &lt;a href="https://itunes.apple.com/fr/app/lanyrd/id467652813?mt=8"&gt;là pour iPhone&lt;/a&gt;, &lt;a href="https://m.lanyrd.com/"&gt;ici pour les autres&lt;/a&gt;), chercher l’événement Agile France 2014, et rendre son contenu disponible hors-ligne, pour avoir le programme en permanence sur vous   &lt;/li&gt;
+&lt;li&gt;Et si vous tweetez, pensez à utiliser le hashtag #AgileFrance !    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Votre billet + feutres + post-its !&lt;/h3&gt;
+&lt;p&gt;Oui, ça semble bête à dire, mais n’oubliez pas votre billet Weezevent !
+La personne en charge du contrôle des billets est le résultat d’un croisement entre Arnold Schwarzenegger et une porte de prison, alors autant vous dire qu’il sera difficile de passer sans.&lt;br /&gt;
+Et si vous avez gardé un porte-badge d’une édition précédente d’Agile France (ou d’une autre conférence), prenez-le ! Vous aurez peut-être la chance d’apercevoir un léger plissement de lèvre sur la figure crispée de notre fidèle Cerbère, ce qui correspondra –dans son monde- à un sourire =) (ça vous fera des choses croustillantes à raconter à vos petits enfants, un jour).&lt;/p&gt;
+&lt;p&gt;Pensez aussi à amener quelques feutres et quelques post-its, parce que... on vous réserve une petite surprise ! 
+Si vous jouez le jeu, vous êtes fantastiques, et nous vous offrirons des chatons ou des licornes (dans la limite des stocks disponibles, bien sûr).&lt;/p&gt;
+&lt;h3&gt;Préparer l’open space !&lt;/h3&gt;
+&lt;p&gt;Jeudi après-midi, la part belle est laissée à la communauté pour s’exprimer et échanger.
+Vous pouvez vous préparer à ce moment en essayant de répondre à ces quelques questions :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quelle est la plus grande question qui vous anime en ce moment ?    &lt;/li&gt;
+&lt;li&gt;Quelle pépite voudrez-vous partager avec les autres praticiens qui se présenteront à la conférence Agile France ?   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Amener un ordinateur ?&lt;/h3&gt;
+&lt;p&gt;Quelques sessions participatives nécessitent un ordinateur avec quelques pré-requis.&lt;br /&gt;
+Attention, le réseau, qu’il soit wifi ou 3g, au Chalet de la Porte Jaune n’est pas spécialement véloce...&lt;/p&gt;
+&lt;h3&gt;Pas envie d'être filmé, photographié ? Dites-le !&lt;/h3&gt;
+&lt;p&gt;L'organisation ne prend pas en charge de filmer les sessions mais certaines sessions seront probablement filmées à l'initiative de l'orateur. Par ailleurs, nous avons invité un photographe qui interviendra durant les 2 jours.
+Nous vous encourageons aussi, si vous êtes prêts à emmener votre appareil photo ou votre caméra, à filmer vous aussi les sessions.&lt;/p&gt;
+&lt;p&gt;Et si vous ne souhaitez pas apparaître en gros plan dans un film, être photographié, faites-le simplement savoir, le droit à l'image est essentiel pour nous.&lt;/p&gt;
+&lt;p&gt;Si vous avez une caméra ou un appareil photo et que vous filmez / prenez des photos, sachez que le partage, c'est chic ! Vous pouvez nous les partager :  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;soit en prêtant votre carte mémoire au photographe "officiel" (Christopher, avec un beau polo et tout plein d'appareils photo) pour qu'il la copie   &lt;/li&gt;
+&lt;li&gt;soit en nous déversant vos rush &lt;a href="https://www.dropbox.com/sh/do16krvl4meywmo/AAAYD72EudsnMoPHIjOYDbJQa"&gt;dans la dropbox&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Informations pratiques sur le Châlet de la Porte Jaune&lt;/h3&gt;
+&lt;p&gt;Vous trouverez les informations pour &lt;a href="http://2014.conference-agile.fr/acces.html"&gt;venir en voiture ou en transport en commun ici&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;Une fois sur place, c’est assez simple de s’y retrouver, juste au cas où, vous pouvez trouver un &lt;a href="http://2014.conference-agile.fr/static/programme/plan.svg"&gt;mini-plan ici&lt;/a&gt;.
+Notez qu’il y a des vestiaires gratuits mis à votre disposition, qui seront ouverts de 8h00 à 18h00.&lt;/p&gt;</summary><category term="public"></category></entry><entry><title>Dernières heures pour prendre vos place au tarif normal</title><link href="http://www.conference-agile.fr/tarif-late-bird.html" rel="alternate"></link><updated>2014-05-19T00:00:00+02:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-05-19:tarif-late-bird.html</id><summary type="html">&lt;p&gt;Ce lundi 19 mai, à partir de 14h30, le tarif des places pour Agile France augmente. Il passe en "Late bird" à 450 € (au lieu de 350 €).&lt;/p&gt;
+&lt;p&gt;La principale raison à cela est que conférence a lieu dans 3 jours et que nous allons devoir préciser nos commandes auprès du traiteur. Les changements de dernière minute sont possibles mais vont nous demander un surcroit d'organisation à un moment où nous sommes dans le rush, et ils nous seront de plus facturés plus chers par le traiteur qui a les mêmes contraintes que nous.&lt;/p&gt;
+&lt;p&gt;Nous ne voulions pas fermer la porte à ceux qui doivent attendre la dernière minute pour savoir s'il peuvent venir mais il était aussi logique qu'on vous fasse payer cette liberté :-)&lt;/p&gt;
+&lt;p&gt;Par ailleurs, également pour répondre aux contraintes particulières de certains, nous avons créé un tarif "Une journée" à 250€.&lt;/p&gt;
+&lt;p&gt;Enfin si vous souhaitez participer au diner, sachez qu'il reste moins d'une dizaine de places.&lt;/p&gt;
+&lt;p&gt;A jeudi ! &lt;/p&gt;</summary><category term="Tarifs"></category></entry><entry><title>Les keynotes de l'édition 2014</title><link href="http://www.conference-agile.fr/les-keynotes-2014.html" rel="alternate"></link><updated>2014-05-18T00:00:00+02:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-05-18:les-keynotes-2014.html</id><summary type="html">&lt;h1&gt;Jeudi matin (keynote d'ouverture) "Le produit, prochaine frontière de l'agilité, par Régis Medina"&lt;/h1&gt;
+&lt;p&gt;Les méthodes agiles ont largement démontré leur efficacité pour mener à bien des projets dans des environnements complexes et changeants. Bravo ! Mais à l'heure de l'iPad et d'App Stores riches de millions de produits, il ne suffit plus de livrer une application qui fonctionne : il faut qu'elle sorte du lot et enchante vraiment ses utilisateurs.&lt;/p&gt;
+&lt;p&gt;Comment s'y prendre ? Les pratiques agiles actuelles sont-elles suffisantes pour relever ce nouveau challenge ? Découvrez les trois compétences clef qui amèneront votre équipe à concevoir des produits qui font mouche.&lt;/p&gt;
+&lt;h1&gt;Jeudi soir (apéro-talk) "L'intelligence collective, des bonnes intentions à l'action" par le philosophe Thibaud Brière&lt;/h1&gt;
+&lt;p&gt;L'organisation a inviter le philosophe Thibaud BRIERE pour une réflexion sur l'intelligence collective. A partir de son expérience chez Hervé Thermique qu’il a formalisée dans &lt;em&gt;Le Pouvoir au-delà du pouvoir&lt;/em&gt;, prix du livre sur le leadership de l’année 2013, nous explorerons les enjeux et clefs de succès des démarches collaboratives en entreprise: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rechercher la diversité des points de vues, autoriser à diverger du consensus et capitaliser sur la fécondité du conflit&lt;/li&gt;
+&lt;li&gt;Favoriser la variété et instaurer un climat de bienveillance  &lt;/li&gt;
+&lt;li&gt;Coordonner les différents points de vue: parvenir à penser ensemble et favoriser l'esprit critique  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Vendredi matin (keynote d'ouverture 2ème jour) "le développement produit sens dessus-dessous" (en anglais), par Rachel Davies&lt;/h1&gt;
+&lt;p&gt;Normalement, XP requiert sur un client sur ​​site qui aide les développeurs à comprendre ce qu’il est plus important de développer, maintenant et demain. Mais comment s’organiser quand les parties prenantes, internes, sont réparties dans le monde entier ? Beaucoup de startups, lorsqu’elles grandissent, évacuent le problème en créant des équipes dédiées au métier et reportent les décisions fonctionnelles sur des chefs de produit. Chez Unruly (« indisciplinés » en anglais) nous avons pris le problème à l’envers. Nos équipes de développement produit ont la responsabilité d'identifier les caractéristiques les plus précieuses à inclure dans la prochaine version et elles travaillent directement avec les gens du métier. Venez découvrir comment nous utilisons XP pour le développement du produit et quels ajustements ont été nécessaires injecter les pratiques du Lean Startup.&lt;/p&gt;
+&lt;h1&gt;Vendredi soir (keynote de clôture) : surprise !&lt;/h1&gt;
+&lt;p&gt;Nous avons organisé une petite cérémonie de clôture qui devrait vous plaire... mais il faudra rester jusqu'au bout !&lt;/p&gt;</summary><category term="Keynote"></category><category term="Orateurs"></category></entry><entry><title>"Vous voyez ce que je veux dire ?", la facilitation graphique à portée de main à Agile France 2014</title><link href="http://www.conference-agile.fr/la-facilitation-graphique-a-portee-de-main-a-agile-france-2014.html" rel="alternate"></link><updated>2014-05-14T00:00:00+02:00</updated><author><name>Romain Couturier</name></author><id>tag:www.conference-agile.fr,2014-05-14:la-facilitation-graphique-a-portee-de-main-a-agile-france-2014.html</id><summary type="html">&lt;p&gt;Chaque fois que j’entends cette question, j’observe soit que la personne en train de parler est à cours d’éléments pour se faire comprendre soit ne fait plus d’effort d’explication. (In)Volontairement, elle renvoie à son interlocuteur la responsabilité de l’analyse de l’échange en cours. L’interlocuteur arrivera avec plus ou moins de succès à interpréter ce qui doit l’être.  &lt;/p&gt;
+&lt;p&gt;"Vous voyez ce que je veux dire ?" est une expression que nous pourrions prendre au pied de la lettre : rendre visible l’abstrait, ce qui est pensé, ce qui est suggéré, et d’une manière générale toutes les notions parfois trop complexes à verbaliser. La facilitation graphique prend dans ces cas-là le relais... parce qu’une image vaut parfois mieux qu’un long discours.  &lt;/p&gt;
+&lt;p&gt;Cette année à Agile France 2014, nous vous proposons de stimuler encore plus votre mémoire visuelle avec en fil rouge la facilitation graphique sous tous ses angles. &lt;/p&gt;
+&lt;p&gt;Avant d’en dire plus, j’ai envie de vous raconter une petite histoire qui j’espère vous mènera au stand de facilitation graphique...    &lt;/p&gt;
+&lt;h4&gt;L’effet Whaouh&lt;/h4&gt;
+&lt;p&gt;En 2012 à Agile Grenoble, je découvrais avec une curiosité naïve la facilitation graphique. Sans vraiment y comprendre grand-chose, j’ai tout de suite été attiré par le côté esthétique et épaté par la simplicité de la structuration des idées et des concepts complexes. Cette découverte m’a donné envie de reprendre les gribouillis. Comme les 99% des gens, j’étais (ultra)complexé, je ne savais pas dessiner, quand j’essayais c’était moche, et Ô jamais je n’osais montrer tout ça à qui que ce soit. Bref, j’étais nul et ça ne servait à rien d’essayer de toutes façons...&lt;/p&gt;
+&lt;p&gt;Tout ça c’était avant l’effet "WHAOUH !". Grâce à un des pionniers de la facilitation graphique en France (Nicolas Gros), j’en ai compris les bases et oublié mes complexes passés. Le changement de perception était si évident pourtant, le mot le plus important dans "facilitation graphique" c’est "facilitation" !   &lt;/p&gt;
+&lt;h4&gt;La frénésie du Scribing depuis 1 an&lt;/h4&gt;
+&lt;p&gt;Depuis 1 an, je "scribe" comme on dit (définition : prise de notes graphiques en direct devant un groupe sans forcément connaître le contenu des échanges à venir. Le scribing a pour objectif de stimuler les interactions et l’émergence de nouvelles idées). J’ai découvert de nouveaux moments d’équipes qui n’appartiennent qu’à elles, en limitant mon incursion dans les frontières du groupe, en laissant simplement les personnes agir et parler comme elles en ont l’habitude. Car lorsque je facilite graphiquement une équipe, je ne parle pas, je restitue graphiquement, c’est l’image que le groupe voit qui facilite les échanges.  &lt;/p&gt;
+&lt;p&gt;Ecoute pleine et entière, être au service du groupe, retranscrire sans filtre l’information échangée et surtout connecter les idées entre elles, c’étaient donc ça les clés ! Une alternative existe aux Post-It et aux jeux : laisser simplement interagir les individus en face à face (ça vous rappelle quelque chose ?), leur montrer ce qu’ils disent et les laisser faire émerger de nouvelles idées à partir des leurs. &lt;/p&gt;
+&lt;p&gt;La facilitation graphique est un feedback visuel pour les équipes, un moyen de plus pour voir la complexité qui les entoure et les laisser prendre les (bonnes ?) décisions. Les résultats sont étonnants et le plus encourageant est que cette discipline est encore peu connue, elle a donc potentiellement un bel avenir devant elle pour tous les facilitateurs d’interaction d’équipes (en gros tous les professionnels).&lt;/p&gt;
+&lt;h4&gt;Et Agile France dans tout ça ?&lt;/h4&gt;
+&lt;p&gt;Nous avons la chance d’évoluer dans une communauté qui expérimente, partage et Agile France est un moment privilégié pour démocratiser les innovations organisationnelles indispensables pour nos équipes, nos projets, nos produits. 
+Je vois dans la facilitation graphique une compétence indispensable, utilisable par tous et dans quasiment toutes les circonstances professionnelles (mais aussi privées ;-)). La facilitation graphique est une compétence qui existe déjà en chaque personne et que chacune et chacun peut développer.  &lt;/p&gt;
+&lt;p&gt;L’ambition des organisateurs sur le programme m’a plu, car pour accepter qu’un projet de facilitation graphique ait sa place à Agile France, ils voulaient qu’elle soit inscrite au cœur de l'ensemble de la conférence et pas simplement en mode démonstration, mais aussi en mode immersion. C’est de là que l’idée de faire d’Agile France 2014 un espace de démocratisation de la facilitation graphique est née.  &lt;/p&gt;
+&lt;p&gt;L’objectif de ce fil rouge de 2 jours sera de rendre accessible la facilitation graphique à toutes celles et ceux qui complexent (ou non) et permettre de comprendre par la pratique ce qu’elle peut vous apporter, tout cela dans un cadre bienveillant. 
+Si j’y suis arrivé, pourquoi pas vous ?   &lt;/p&gt;
+&lt;h4&gt;Epilogue : la démocratisation démarre maintenant&lt;/h4&gt;
+&lt;p&gt;Pour toutes celles et ceux qui voudraient s’échauffer pour le jeudi 22 mai 2014, je vous propose le petit exercice suivant :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Prenez 2 ou 3 feutres de couleur (un noir obligatoire)&lt;/li&gt;
+&lt;li&gt;Prenez une feuille A4 (ou plus grande si vous voulez)&lt;/li&gt;
+&lt;li&gt;Ecoutez l’enregistrement de la vision des organisateurs d’Agile France 2014 disponible &lt;a href="/static/programme/resources/InterviewOrgasAF2014.m4a"&gt;ici&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dessinez et notez les idées majeures en une seule prise&lt;/li&gt;
+&lt;li&gt;Connectez les dessins et les textes&lt;/li&gt;
+&lt;li&gt;Publiez vos œuvres en commentaire ici, sur votre blog ou sur Twitter&lt;/li&gt;
+&lt;li&gt;Bravo,  vous venez de faire votre premier scribe !&lt;/li&gt;
+&lt;li&gt;Si le cœur vous en dit, refaite une nouvelle version en écoutant une deuxième fois&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pour découvrir la suite, rendez-vous jeudi matin pour une initiation à la facilitation graphique, une mise en pratique l’après-midi sur l’Open Space et un débriefing le lendemain.   &lt;/p&gt;
+&lt;p&gt;3, 2, 1, Scribez ! &lt;/p&gt;
+&lt;p&gt;NB : Et comme je ne pouvais pas écrire ce billet sans montrer l’exemple, voici ma version après l’écoute de l’enregistrement de la vision des organisateurs d’Agile France 2014, en 3 itérations : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Itération 1&lt;/strong&gt;
+&lt;a href="/static/programme/resources/Scribe0001.jpg" target="_blank"&gt;&lt;img alt="itération 1" src="/static/programme/resources/Scribe0001.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Itération 2&lt;/strong&gt;
+&lt;a href="/static/programme/resources/Scribe0002.jpg" target="_blank"&gt;&lt;img alt="itération 2" src="/static/programme/resources/Scribe0002.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Itération 3&lt;/strong&gt;
+&lt;a href="/static/programme/resources/Scribe0003.jpg" target="_blank"&gt;&lt;img alt="itération 3" src="/static/programme/resources/Scribe0003.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;A propos de Romain Couturier :&lt;/h4&gt;
+&lt;p&gt;Romain Couturier est facilitateur graphique et coach agile. Il a fondé Terre d’Agile en 2012 pour répondre aux demandes d’accompagnement des équipes et de organisations dans l’évolution de leurs modes collaboratifs, de leurs procédés de création et d’innovation de produit.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="/bios/romain-couturier.html"&gt;En savoir plus sur Romain&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="orateur"></category></entry><entry><title>Comment présenter Agile France à vos collègues ou à votre patron ?</title><link href="http://www.conference-agile.fr/Faire-un-mail-pour-presenter-Agile-France.html" rel="alternate"></link><updated>2014-05-06T16:45:00+02:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2014-05-06:Faire-un-mail-pour-presenter-Agile-France.html</id><summary type="html">&lt;h1&gt;Faire un mail pour parler d'Agile France&lt;/h1&gt;
+&lt;p&gt;Vous voudriez faire de la pub pour Agile France mais vous ne savez pas trop comment faire ? C'est facile en fait. Vous connaissez des équipes agiles ? des entreprises qui déploiement une méthodologie agile ? 
+Nous vous proposons ci-dessous un modèle de mail prêt à l'emploi. Copiez-le, attachez les documents que nous vous proposons (après les avoir téléchargés), et cliquez sur "Envoyer".&lt;/p&gt;
+&lt;p&gt;Plus d'excuses, au boulot !&lt;/p&gt;
+&lt;h2&gt;Exemple de mail&lt;/h2&gt;
+&lt;p&gt;Connaissez-vous la conférence Agile France ? Je crois que cet événement devrait vous intéresser.&lt;/p&gt;
+&lt;p&gt;Depuis 2006, à chaque printemps, Agile France (anciennement XPDays Paris) réunit sur 2 jours toutes celles et ceux qui pratiquent les méthodes agiles, quelque soit leur sensibilité et leur domaine d'application.&lt;/p&gt;
+&lt;p&gt;Entièrement non-business (organisée par des bénévoles et sans sponsors), l'objectif d'Agile France est d'offrir aux agilistes un espace de rencontre et de dialogue qui permet à chacun de s'enrichir et de progresser en écoutant, en partageant, en contribuant. &lt;/p&gt;
+&lt;p&gt;On y parle bien sur logiciel, code, BDD, pair programming et autres sujets technique, ergonomie, tests utilisateurs et product ownership, Scrum, XP et diverses méthodes agiles mais aussi management, RH, éducation (nous avons plusieurs profs dans nos participants), dynamique des groupes, coaching, facilitation, culture et gouvernance...&lt;/p&gt;
+&lt;p&gt;C'est réellement une conférence qui vise à élargir la culture agile des praticiens de l'agilité, qu'ils soient développeurs agiles, scrum master, product owner, team leader, manager...&lt;/p&gt;
+&lt;p&gt;Je vous invite à consulter le programme 2014, qui est en ligne: &lt;a href="http://2014.conference-agile.fr/programme_2014.html"&gt;http://2014.conference-agile.fr/programme_2014.html&lt;/a&gt; (attention, il est sur 2 pages). &lt;/p&gt;
+&lt;p&gt;Je vous joins aussi un document qui reprend en deux pages et une dizaine de photos les principaux arguments pour motiver les participants potentiels. &lt;/p&gt;
+&lt;p&gt;Le tarif pour deux jours de conférence est de 350 euros TTC, ce qui n'est pas cher pour deux jours de formation avec les meilleurs spécialistes français. Je vous signale d'ailleurs que si vous prenez vos places cette semaine, vous pouvez bénéficier du code promo AMIDELACONF, valable jusqu'à dimanche soir.&lt;/p&gt;
+&lt;p&gt;A noter : si vous souhaitez inscrire plus de 5 personnes, contactez l'équipe d'organisation (contact@conference-agile.fr) pour bénéficier d'un tarif groupe.&lt;/p&gt;
+&lt;h2&gt;Documents à joindre&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;un &lt;a href="https://drive.google.com/file/d/0B-RCbv1rIES7TkpaUldCQXlwaUE/edit?usp=sharing"&gt;argumentaire&lt;/a&gt; assez complet, en deux pages et dix photos&lt;/li&gt;
+&lt;li&gt;une &lt;a href="https://drive.google.com/file/d/0B-RCbv1rIES7dXFDbU1qa1E5Mms/edit?usp=sharing"&gt;affichette A4&lt;/a&gt; à imprimer et à poster judicieusement à coté de la machine à café &lt;/li&gt;
+&lt;li&gt;un &lt;a href="https://drive.google.com/file/d/0B-RCbv1rIES7NmFhMGxLUVRtc0k/edit?usp=sharing"&gt;slide&lt;/a&gt; (en jpg, facile à inclure quelque soit votre logiciel) que vous pouvez inclure dans vos présentations si vous organisez un podojo, un playground, une réunion agile ... etc.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="public"></category></entry><entry><title>Nous avons besoin de vous pour faire de la pub !</title><link href="http://www.conference-agile.fr/Faites-de-la-pub-pour-Agile-France.html" rel="alternate"></link><updated>2014-05-06T10:00:00+02:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2014-05-06:Faites-de-la-pub-pour-Agile-France.html</id><summary type="html">&lt;h1&gt;Parlez d'Agile France autour de vous&lt;/h1&gt;
+&lt;p&gt;Nous sommes à trois semaines de la conférence et il nous reste une centaine de place à vendre. On nous remonte que nous ne sommes pas assez visibles. Soit mais nous ne sommes qu'une poignée d'orga et vous êtes des centaines d'agilistes. On aimerait donc que vous fassiez le boulot :-)
+Blague à part, il faudrait absolument que vous puissiez parler d'Agile France autour de vous:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dans votre entreprise&lt;/strong&gt; : vous avez pris des places pour les barbus de l'IT et les chefs de projets&lt;sup&gt;(*)&lt;/sup&gt;... mais peut-être que les gens du métier, les managers ou vos RH sont impactés par les pratiques agiles, qu'ils se posent des questions pratiques et pourraient apprendre et échanger sur l'agilité s'ils venaient  ?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chez vos clients&lt;/strong&gt; : vous les avez accompagnés sur la mise en place de l'agilité, ou vous êtes en train de le faire, mais ont-ils eu connaissance de cette formidable opportunité de continuer d'apprendre et d'échanger qu'est Agile France ?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lors de réunions&lt;/strong&gt; (agiles) auxquelles vous participez: &lt;em&gt;Brown Bag Lunchs&lt;/em&gt;, &lt;em&gt;PODOJO&lt;/em&gt;, &lt;em&gt;Code Jam&lt;/em&gt;, ateliers, conférences ... quelle meilleure occasion d'ouvrir un peu plus les horizons ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;small&gt;(*) non ? qu'attendez-vous alors ? vite, vite, c'est par ici: www.conference-agile.fr&lt;/small&gt;&lt;/p&gt;
+&lt;h2&gt;On vous fournit le matériel&lt;/h2&gt;
+&lt;p&gt;Pour vous aider dans cette démarche, nous mettons à votre disposition les ressources suivantes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;un code de réduction à utiliser pour convaincre votre patron ou votre client : 5% de réduction avec le code AMIDELACONF valable uniquement cette semaine (jusqu'au dimanche 11 à minuit)&lt;/li&gt;
+&lt;li&gt;une &lt;a href="http://www.slideshare.net/slideshow/embed_code/34133531"&gt;slide&lt;/a&gt; à intégrer dans toutes vos présentations :) &lt;/li&gt;
+&lt;li&gt;un &lt;a href="https://drive.google.com/file/d/0B-RCbv1rIES7TkpaUldCQXlwaUE/edit?usp=sharing"&gt;argumentaire détaillé&lt;/a&gt; en 2 pages et 10 photos, parlant des quatre bonnes raisons de venir à Agile France. A lire pour avoir des arguments imparables &lt;/li&gt;
+&lt;li&gt;une assistance à la vente: votre patron ou votre client ne sont pas convaincu ? un membre de l'orga vous aide au téléphone ou se déplace pour "faire l'argu" &lt;/li&gt;
+&lt;li&gt;une petite &lt;a href="https://drive.google.com/file/d/0B-RCbv1rIES7dXFDbU1qa1E5Mms/edit?usp=sharing"&gt;affiche à télécharger&lt;/a&gt;, à imprimer et coller partout partout, qui résume les bonnes raisons. Commencez par en mettre une tout de suite à coté de votre machine à café puis pollinisez ... (vous pouvez aussi imprimer le &lt;a href="http://www.slideshare.net/slideshow/embed_code/34133531"&gt;slide&lt;/a&gt;, il fait le job)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On compte vraiment sur votre aide, alors hop hop hop ! au boulot ! =)&lt;/p&gt;</summary><category term="public"></category></entry><entry><title>Agile France la conférence des agilistes, pas seulement des coachs agiles</title><link href="http://www.conference-agile.fr/Agile-France-c-est-pour-les-praticiens.html" rel="alternate"></link><updated>2014-05-06T09:50:00+02:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2014-05-06:Agile-France-c-est-pour-les-praticiens.html</id><summary type="html">&lt;h1&gt;Agile France c'est pas (que) pour les coachs barbus&lt;/h1&gt;
+&lt;p&gt;Il faut corriger une idée fausse. Beaucoup de gens croient, à tort qu'Agile France serait une conférence à destination des coachs agiles... ce qui est faux !&lt;/p&gt;
+&lt;p&gt;La conférence Agile France s'adresse à toutes celles et ceux qui ont l'expérience des pratiques agiles - sans nécessairement se considérer comme experts. Cela signifie que celle (ou celui) qui travaille au quotidien dans un contexte agile est concernée, qu'elle (il) soit dans les équipes de développement ou de support (Product Owner, Scrum Master, développeurs, testeurs...), ou les accompagne comme manager, RH, ... voire même comme coach !&lt;/p&gt;
+&lt;p&gt;La seule restriction c'est qu'Agile France n'est pas une conférence d'évangélisation. Il n'y a pas de sessions d'introduction à l'agilité ou de vulgarisation.&lt;/p&gt;
+&lt;p&gt;Des doutes, des questions ? &lt;a href="http://2014.conference-agile.fr/programme_2014.html"&gt;Regardez le programme&lt;/a&gt;.&lt;/p&gt;</summary><category term="public"></category></entry><entry><title>Programme 2014</title><link href="http://www.conference-agile.fr/programme-2014.html" rel="alternate"></link><updated>2014-04-15T19:43:00+02:00</updated><author><name>Julien Porot</name></author><id>tag:www.conference-agile.fr,2014-04-15:programme-2014.html</id><summary type="html">&lt;p&gt;Et oui, vous ne rêvez pas, il s'agit bien de &lt;del&gt;&lt;a href="/static/programme/Programme-AgileFrance2014-V1.pdf"&gt;la première version du programme&lt;/a&gt;&lt;/del&gt; !
+Et quelques ajustements plus tard, voici la &lt;del&gt;&lt;a href="/static/programme/programmeAgileFrance2014-V2.pdf"&gt;seconde version&lt;/a&gt;&lt;/del&gt; &lt;a href="/programme_2014.html"&gt;troisième version en HTML&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Voici à quoi ressemble la conférence "aux petits oignons" à laquelle vous serez ravis de participer :)&lt;/p&gt;
+&lt;p&gt;Alors n'attendez plus, &lt;a href="/"&gt;prenez vite vos places&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Et commencez dès à présent à réfléchir à un sujet "qui-va-bien" pour l'open-space !&lt;/p&gt;
+&lt;p&gt;A bientôt ! :)&lt;/p&gt;</summary><category term="programme orateur session"></category></entry><entry><title>Keynote d'ouverture : Le produit, prochaine frontière de l'agilité, par Régis Medina</title><link href="http://www.conference-agile.fr/keynote-ouverture-le-produit-prochaine-frontiere-agilite.html" rel="alternate"></link><updated>2014-03-03T00:00:00+01:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-03-03:keynote-ouverture-le-produit-prochaine-frontiere-agilite.html</id><summary type="html">&lt;p&gt;Les méthodes agiles ont largement démontré leur efficacité pour mener à bien des projets dans des environnements complexes et changeants. Bravo ! Mais à l'heure de l'iPad et d'App Stores riches de millions de produits, il ne suffit plus de livrer une application qui fonctionne : il faut qu'elle sorte du lot et enchante vraiment ses utilisateurs.&lt;/p&gt;
+&lt;p&gt;Comment s'y prendre ? Les pratiques agiles actuelles sont-elles suffisantes pour relever ce nouveau challenge ? Découvrez les trois compétences clef qui amèneront votre équipe à concevoir des produits qui font mouche.&lt;/p&gt;
+&lt;h4&gt;A propos de Régis Medina :&lt;/h4&gt;
+&lt;p&gt;Pionnier du développement agile puis du lean IT en France, Régis Medina est associé et coach lean chez Operae Partners. Il aide les managers d'organisations informatiques à enchanter leurs utilisateurs pour développer la compétitivité de l’entreprise. Il est co-auteur en 2002 de “Gestion de projet Extreme Programming” et tout récemment de “La pratique du lean management dans l’IT”. Régis est membre de l’Institut Lean France et intervient dans de nombreuses conférences dédiées à l’agile et au lean.&lt;/p&gt;</summary><category term="Keynote"></category><category term="Produit"></category></entry><entry><title>Agile France 2014 : votes et comité de sélection</title><link href="http://www.conference-agile.fr/agile-france-2014-votes-comite-selection.html" rel="alternate"></link><updated>2014-02-28T18:00:00+01:00</updated><author><name>Equipe d'organisation</name></author><id>tag:www.conference-agile.fr,2014-02-28:agile-france-2014-votes-comite-selection.html</id><summary type="html">&lt;p&gt;Nous ouvrons la possibilité à ceux qui ont proposé une session, aux early adopters (inscrits à la conférence avant publication des premières sessions) et à ceux qui le souhaitent de &lt;strong&gt;voter pour leurs 10 sessions favorites, et ceci jusqu'au 12 mars&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les règles sont simples :&lt;ul&gt;
+&lt;li&gt;Vous disposez de 10 votes en tout&lt;/li&gt;
+&lt;li&gt;Vous pouvez voter une fois par session&lt;/li&gt;
+&lt;li&gt;l'ordre des votes n'a pas d'importance&lt;/li&gt;
+&lt;li&gt;Vous ne pouvez pas voter pour votre propre session&lt;/li&gt;
+&lt;li&gt;Les votes ne sont visibles que du comité de sélection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le comité de sélection pourra tenir compte du résultat des votes pour composer un agenda équilibré qui satisfasse les objectifs de la conférence, tienne en deux jours et réponde aux attentes de la communauté.&lt;/p&gt;
+&lt;p&gt;Si vous avez envie de voter, dite- le nous &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;"&gt;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;&lt;/a&gt; et nous vous créerons un compte permettant de le faire&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le comité de sélection se tiendra le 15 mars.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les éléments portés à l’attention des participants à ce comité seront :&lt;ul&gt;
+&lt;li&gt;le titre&lt;/li&gt;
+&lt;li&gt;le sous-titre&lt;/li&gt;
+&lt;li&gt;le track&lt;/li&gt;
+&lt;li&gt;la durée&lt;/li&gt;
+&lt;li&gt;les noms des orateurs&lt;/li&gt;
+&lt;li&gt;le teaser (short description)&lt;/li&gt;
+&lt;li&gt;la description&lt;/li&gt;
+&lt;li&gt;le nombre maximal de participants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les échanges ayant eu lieu dans le cadre des Perfection Game ne seront pas pris en compte. Aux orateurs de mettre à jour leurs propositions de session !&lt;/p&gt;
+&lt;p&gt;Vous êtes un agiliste motivé et voulez nous aider ?
+Envoyez-nous un mail : &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;"&gt;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;&lt;/a&gt;.&lt;/p&gt;</summary><category term="agile france"></category><category term="soumissions"></category><category term="vote"></category><category term="programme"></category></entry><entry><title>Une sélection de 6 sessions pour donner le ton pour Agile France 2014</title><link href="http://www.conference-agile.fr/selection-sessions-donner-ton-af2014.html" rel="alternate"></link><updated>2014-02-05T15:00:00+01:00</updated><author><name>Equipe d'organisation 2014</name></author><id>tag:www.conference-agile.fr,2014-02-05:selection-sessions-donner-ton-af2014.html</id><summary type="html">&lt;p&gt;Ce mardi 4 février, à l'occasion de notre réunion hebdomadaire nous avons passé en revue les propositions de sessions pour en faire émerger une &lt;strong&gt;sélection des organisateurs&lt;/strong&gt;.
+Les sessions sélectionnées devancent l'annonce des keynotes et ont donc le privilège d'inaugurer notre programme.&lt;/p&gt;
+&lt;p&gt;C'est donc dans un ordre aléatoire que nous vous présentons ces sessions.&lt;/p&gt;
+&lt;h2&gt;La simplicité: pas facile!&lt;/h2&gt;
+&lt;p&gt;Exploration de l'importance de la simplicité, par Jacques Couvreur et Pascal Van Cauwenberghe&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Plus je me débat dans du code legacy, et plus je suis convaincu que la pratique fondatrice est la simplicité.
+Et puis au delà d'un gage de survie pour le code… la simplicité semble vraiment être une tendance de fond.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Si simple de faire compliqué.... et si difficile de faire simple... Cette question est fondamentale pour nous tous et mérite notre vigilance de tous les instants. Chouette : une session sur ce sujet !&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Qu'est ce que la simplicité ? Quand est-ce que tout bascule et mon code passe de simple à complexe ? Montrez moi les symptômes que je dois savoir reconnaître et traiter pour éviter de basculer vers la complexité !&lt;/em&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;De l'assembleur et des tests&lt;/h2&gt;
+&lt;p&gt;TDD tout terrain, par Emmanuel Gaillot&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dans cette session de performance de code, nous montrerons comment construire un framework simple de tests en langage assembleur (Intel 32 bits) et comment l'utiliser pour programmer une fonctionnalité (probablement "Comparaison de chaînes").&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Agile France c'est un éclectisme choisi de sessions techniques et non-techniques. Ici on aura de la technique !&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Une session improbable qui va certainement nous apporter un regard nouveau sur l'assembleur.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Un challenge relevé dans un environnement d'apparence hostile où l'inventivité du programmeur est mise à rude épreuve.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Du TDD en assembleur: où d'autre qu'Agile France peut-on trouver une session aussi folle ?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Expérience d'un maître de donjons et dragons sur le management&lt;/h2&gt;
+&lt;p&gt;Comment trouver son style, par Guillaume Duquesnay&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Comment mon style de maître de jeu s'est formé, déformé, puis transcendé au cours de mes années de jeu. Je ne parlerai jamais directement de management, et pourtant je ne parlerai que de ça.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Vous vouliez sortir des sentiers battus ? On y est.&lt;/em&gt; &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Einstein a disait que "le jeu est la forme la plus élevée de la recherche", alors il serait de bon goût d'écouter ce que peut raconter un maître de jeu !&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;La rétrospective continue&lt;/h2&gt;
+&lt;p&gt;Intégrer l'apprentissage dans le quotidien d'une équipe agile, par Régis Medina et Antoine Contal&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Comment l'équipe sait-elle qu'elle se concentre sur les bons problèmes et qu'elle apprend ce qu'elle a besoin d'apprendre, plutôt que ce qui lui plaît d'apprendre ?
+Comment développe-t-elle l'expertise de chaque coéquipier ?
+Comment en évalue-t-elle les fruits du point de vue du client et de l'organisation ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Pour la pertinence et le plaisir de regarder et interroger la rétrospective. Changer de perspective. Et, peut-être, la redécouvrir autrement.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Qui ne cherche pas avant tout du fun et de la variété dans ses rétrospectives ? En faisant cela, ne perdons nous pas de vue la finalité de la rétrospective ? J'ai hâte de voir si on peut allier fun, variété, et finalité !&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;La culture du programmeur&lt;/h2&gt;
+&lt;p&gt;Améliorer les relations entre programmeurs et les autres intervenants d'une équipe produit, par Jean-Laurent De Morlhon&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vous avez l'idée qui va vous rendre riche et le budget, maintenant il vous faut les programmeurs. Ceux qui murmurent à l'oreille des programmes pour faire des applications extraordinaires. Mais je les trouve où ces types là ? Cette session présente des réponses concrètes en explorant la culture de ces programmeurs. &amp;gt;Comprendre cette culture est un facteur déterminant pour bâtir une équipe produit extraordinaire.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Cette session est en phase avec la conférence, les programmeurs sont l’un des éléments clés d’une équipe agile et comprendre cette culture est indispensable au bon fonctionnement d’une équipe.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Si les individus et leurs interactions sont l'un des fondements de l'agilité. Si les individus sont étrangers les uns des autres, comment les interactions pourraient-elles être efficaces ?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Partager la joie de coder avec un enfant&lt;/h2&gt;
+&lt;p&gt;Retour d'expérience de parents qui l'ont fait, conseils pour ceux qui veulent le faire, par Raphaël Pierquin et Jonathan Perret&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Raphaël et Jonathan sont papa, développeurs, et fréquentent assidûment les coding gôuter. Ils viennent partager ce qu'ils ont appris, et vous invitent à en faire autant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Paroles d'organisateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Que l’on en fasse des futures programmeurs ou pas, la découverte de la programmation est un moment ludique pour les enfants. En tant que parents, futurs parents, tantes et oncles, nous sommes sûrs que cette session vous apportera beaucoup et vous donnera envie de coder avec vos enfants.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Un moment de partage pour parler de moments de partage entre deux générations.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Pour réussir, hier il fallait savoir lire, mais demain il faudra savoir coder ! Mais si la plupart de nos parents nous ont montré "le monde derrière les lettres", peu d'entre nous peuvent se targuer d'avoir eu un aperçu de ce que permet de faire du code dans leur jeunesse... et comme personne ne souhaite reproduire les erreurs de ses parents, y compris les orgas, et bien nous avons choisi cette session  :)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ce pré-programme vous inspire ? Dépêchez vous de &lt;a href="http://www.conference-agile.fr/"&gt;vous inscrire&lt;/a&gt; car les places au tarif Blind Bird sont limitées.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Au moment où vous lisez ce billet, l'appel à orateur pour Agile France 2014 est désormais fermé.
+Merci à tous ceux qui ont soumis une proposition ! Nous reviendrons dessus plus spécifiquement, mais sachez que les Perfection Games battent leur plein, et que nous travaillons à la tenue du comité de sélection.&lt;/p&gt;</summary><category term="programme"></category><category term="2014"></category></entry><entry><title>Appel à orateurs Agile France 2014, c'est tout ?</title><link href="http://www.conference-agile.fr/relance-cfp-2014.html" rel="alternate"></link><updated>2014-01-17T10:30:00+01:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2014-01-17:relance-cfp-2014.html</id><summary type="html">&lt;p&gt;Bonjour et bonne année à tous. L'équipe d'organisation d'Agile France continue de travailler pour vous mais ... pas sans vous.&lt;/p&gt;
+&lt;p&gt;L'appel à orateur est ouvert depuis un moment déjà et nous avons reçu une cinquantaine de sujets intéressants mais &lt;strong&gt;vous pouvez faire mieux que ça&lt;/strong&gt; !&lt;/p&gt;
+&lt;h3&gt;C'est quoi un bon programme pour Agile France ?&lt;/h3&gt;
+
+&lt;p&gt;C'est d'abord un programme où se mêlent des sujets pointus sur l'agilité, des sujets techniques, des sujets décalés, des sujets hors sujets.
+C'est un programme où les hommes et les femmes qui travaillent selon les principes du manifeste agile viennent partager leur expérience. Un programme qui est plus centré sur le "pourquoi ça marche (ou pas)" plutôt que sur le "c'est quoi l'agile". &lt;/p&gt;
+&lt;p&gt;Nous avons aussi l'ambition d'apporter de la nouveauté, de la fraicheur dans la communauté agile. &lt;/p&gt;
+&lt;p&gt;Tout cela signifie des sessions originales, pointues, qui n'ont pas été déjà vues dans 5 autres conférences. Ca signifie des prises de position, du débat, de la contradiction. Cela signifie de la recherche, de l'expérimentation, de l'ouverture à d'autres disciplines.&lt;/p&gt;
+&lt;p&gt;Les sujets reçus sont bons, certains sont même excellents, mais on en veut plus : avec 6 salles sur 2 jours nous sommes en capacité de proposer 30 sessions. &lt;/p&gt;
+&lt;p&gt;En tant qu'orga je veux que chacune des 30 sessions et des 6 ateliers que l'on retiendra dans le programme gagne sa place au détriment d'un autre bon sujet. Je veux que ça soit un déchirement de refuser de superbes propositions afin d'être certain que chacun des sujets que l'on conserve est unique. &lt;/p&gt;
+&lt;p&gt;Et pour arriver à ce niveau d'exigence, nous avons besoin de vous : vous connaissez des entreprises, des praticiens, qui ont une démarche originale, une expérience poussée, des choses à partager ? Sollicitez-les, &lt;a href="https://docs.google.com/forms/d/1zvTGA31XTX5fsJuWyoOFHg7NEBxHT94ewYcv9dHRk4I/viewform"&gt;dénoncez-les même&lt;/a&gt;.
+C'est aussi pour ça que nous relançons notre appel à la délation qui avait retenu votre attention en 2013 : &lt;a href="https://docs.google.com/forms/d/1zvTGA31XTX5fsJuWyoOFHg7NEBxHT94ewYcv9dHRk4I/viewform"&gt;dites-nous qui vous voulez voir à Agile France&lt;/a&gt;.
+Cette année nous avons également pris le risque d'ouvrir le programme à des sessions en anglais. Vous connaissez des belges, des allemands, des espagnols, des italiens, des néerlandais, des anglais, des roumains, des grecs, des luxembourgeois, des suisses qui ont leur place à Agile France ? &lt;a href="https://docs.google.com/forms/d/1zvTGA31XTX5fsJuWyoOFHg7NEBxHT94ewYcv9dHRk4I/viewform"&gt;Dites-le&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Dernière chose : comme l'an dernier, nous ouvrons le processus de revue et amélioration des propositions de session à la communauté. Tous ceux qui déposent un sujet reçoivent automatiquement leurs accès à la plateforme de gestion des propositions, mais si vous ne proposez pas de session mais souhaitez aider ... demandez nous un accès sur &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;"&gt;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Damien Thouvenin, pour l’équipe d’organisation d’Agile France 2014.&lt;/p&gt;</summary><category term="orateurs"></category><category term="2014"></category></entry><entry><title>AgileFrance 2014 - Quelques nouvelles en décembre</title><link href="http://www.conference-agile.fr/point%20d'info.html" rel="alternate"></link><updated>2013-12-04T19:30:00+01:00</updated><author><name>Orga</name></author><id>tag:www.conference-agile.fr,2013-12-04:point d'info.html</id><summary type="html">&lt;h4&gt;Pour ceux qui n'ont qu'une minute, ce que vous devez savoir sur Agile France 2014&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dans quelques jours le tarif passera de 155€ à 180€&lt;/li&gt;
+&lt;li&gt;L'agenda :&lt;ul&gt;
+&lt;li&gt;des keynotes d'ouverture et de clôture&lt;/li&gt;
+&lt;li&gt;des présentations jeudi et vendredi matin&lt;/li&gt;
+&lt;li&gt;un open-space le jeudi après-midi&lt;/li&gt;
+&lt;li&gt;des ateliers le vendredi après-midi&lt;/li&gt;
+&lt;li&gt;un dîner le jeudi soir&lt;/li&gt;
+&lt;li&gt;une activité physique mais zen vendredi matin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Un plus grand nombre de sessions en anglais&lt;/li&gt;
+&lt;li&gt;Toujours des sessions qui apportent de l'air frais dans la communauté agile et permettent aux praticiens avancés d'échanger et avancer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Pour ceux qui ont plus de temps, un peu de littérature ci-après !&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Agile France 2014 se prépare !&lt;/strong&gt;&lt;br /&gt;
+L’&lt;a href="http://call4paper-agileconf.herokuapp.com/"&gt;appel à orateur&lt;/a&gt; est ouvert et la &lt;a href="http://www.conference-agile.fr/index.html"&gt;billetterie&lt;/a&gt; aussi. Attention, le tarif ultra-promotionnel va bientôt augmenter. Il reste à 155 euros pour quelques jours encore puis il passera à 180€ pour les fans qui prennent leur place avant même de connaitre le programme : dépêchez-vous.&lt;/p&gt;
+&lt;p&gt;Justement, le &lt;strong&gt;programme&lt;/strong&gt;, nous y travaillons. En attendant les magnifiques sessions que &lt;a href="http://call4paper-agileconf.herokuapp.com/"&gt;va nous proposer&lt;/a&gt; la communauté (c’est de vous qu’il s’agit !), voici déjà quelques éléments de structure : cette année nous voulons renforcer les points forts d’Agile France, l’échange et le partage entre praticiens expérimentés.&lt;/p&gt;
+&lt;p&gt;Nous avons donc choisi de structurer les journées en réservant les matinées aux sessions où l’orateur a le premier rôle et de consacrer les après-midi aux activités collaboratives où les participants pratiquent et co-construisent le résultat.&lt;br /&gt;
+Ainsi le jeudi après-midi sera réservé à un open-space tandis que le vendredi après-midi sera dédié aux ateliers participatifs. Voici à quoi ressemblera donc le programme 2014 :&lt;/p&gt;
+&lt;p&gt;&lt;img alt="apercu du programme Agile France 2014" src="http://www.conference-agile.fr/static/images/structure-agile-france-2014.png" width="682" height="479" border="0" /&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quels sujets sont recherchés ?&lt;/strong&gt;&lt;br /&gt;
+Pas de thème imposé pour les orateurs, simplement une demande : apporter de l’air frais dans la communauté agile plutôt que de recycler des sujets et des idées éculés. Tout est permis et l’humour ou le décalage sont appréciés. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Autres nouveautés&lt;/strong&gt;&lt;br /&gt;
+Nous souhaitons ouvrir la conférence à nos voisins européens et nous vous proposons donc de mêler sessions en anglais et sessions en français. Nous vous proposons également un petit atelier physique mais zen le vendredi matin pour profiter des jardins et attaquer la deuxième journée en pleine forme. Enfin, une keynote de clôture conclura en beauté ces deux riches et belles journées.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ce qui ne change pas&lt;/strong&gt;&lt;br /&gt;
+Les pauses longues et fréquentes, le déjeuner assis et le dîner du jeudi soir : autant d’occasions de vous asseoir avec un participant que vous ne connaissez pas et d’en apprendre toujours plus en l’interrogeant sur les sessions qui lui ont plu !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Des questions ?&lt;/strong&gt; &lt;a href="http://www.conference-agile.fr/pages/faq.html"&gt;Consultez notre F.A.Q.&lt;/a&gt; ou &lt;a href="mailto:contact@conference-agile.fr"&gt;envoyez-nous un mail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Alors, n’oubliez pas de bloquer tout de suite les 22 et 23 mai dans votre agenda, de parler de la conférence, de &lt;a href="http://www.conference-agile.fr/index.html"&gt;réserver votre billet&lt;/a&gt; et de &lt;a href="http://call4paper-agileconf.herokuapp.com/"&gt;proposer une session&lt;/a&gt; si vous avez envie de monter sur scène.&lt;/p&gt;</summary><category term="News"></category></entry><entry><title>AgileFrance 2014 - Appel à orateurs</title><link href="http://www.conference-agile.fr/call4paper.html" rel="alternate"></link><updated>2013-11-26T19:30:00+01:00</updated><author><name>Orga</name></author><id>tag:www.conference-agile.fr,2013-11-26:call4paper.html</id><summary type="html">&lt;p&gt;Chers agilistes, &lt;/p&gt;
+&lt;p&gt;Le call for paper d'Agile France 2014 est officiellement ouvert en ce mardi 26 Novembre, et il se terminera mi janvier !&lt;/p&gt;
+&lt;p&gt;Avec l'aimable autorisation de Pascal Van Cauwenberghe, nous avons mis en place l'outil &lt;a href="http://call4paper-agileconf.herokuapp.com/"&gt;Propile&lt;/a&gt; qui vous permettra :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;de déposer vos propositions de session,&lt;/li&gt;
+&lt;li&gt;de consulter les sessions proposées, &lt;/li&gt;
+&lt;li&gt;de donner du feedback sur les autres sessions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les sujets sont libres, les courants d'air frais sont bienvenus. Donc plus de temps à perdre, &lt;a href="http://call4paper-agileconf.herokuapp.com/"&gt;ça se passe par là&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Et comme d'hab', plus tôt vous proposerez vos sessions, plus nombreux seront les feedbacks !&lt;/p&gt;
+&lt;p&gt;Des questions ? Nous allons essayer d'y répondre rapidement mais si elles vous brûlent les lèvres, &lt;a href="mailto:contact@conference-agile.fr"&gt;écrivez-nous&lt;/a&gt; !&lt;/p&gt;</summary><category term="orateurs"></category></entry><entry><title>Lancement 2014: tarif "fan club", cotisation, polos ....</title><link href="http://www.conference-agile.fr/lancement-2014-tarif-fan-club-cotisation-polos.html" rel="alternate"></link><updated>2013-10-31T15:55:00+01:00</updated><author><name>Equipe d'organisation 2014</name></author><id>tag:www.conference-agile.fr,2013-10-31:lancement-2014-tarif-fan-club-cotisation-polos.html</id><summary type="html">&lt;p&gt;Eh oui, vous ne rêvez pas, nous sommes en octobre 2013 et nous voilà déjà pour vous parler d'Agile France 2014 !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ce qui ne change pas&lt;/strong&gt;:
+- Vous êtes merveilleux : le meilleur public toutes conférences agiles confondues
+- la conférence aura lieu les jeudi 22 et vendredi 23 mai
+- au Chalet de la Porte Jaune, à Paris
+- avec l'ambition de permettre aux praticiens avancés de se réunir et d'échanger pour continuer d’apprendre en dehors des sentiers battus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ce qui est nouveau&lt;/strong&gt; : 3 prix (en fonction de la date), des polos brodés, soutien à l’association.&lt;/p&gt;
+&lt;p&gt;Vous pouvez dès à présent réserver votre place au tarif très avantageux de &lt;strong&gt;155 euros&lt;/strong&gt;. Ce tarif “fan club” est valable dès aujourd’hui et jusqu'à la publication du programme.&lt;/p&gt;
+&lt;p&gt;Ensuite, le prix passera au tarif “normal” de 300€. Et à partir du 1er Mai, pour les tardifs, qui attendent de savoir s’ils facturent leur client ou viennent plutôt se former, le prix sera de 600€.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pourquoi ce tarif  ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le tarif “Fan Club” nous permet de : (1) donner un coup de pouce à ceux qui s’autofinancent et pour qui 300€ c’est beaucoup d’argent et (2) remercier ceux qui nous font confiance, année après année et qui sont prêts à s’engager et à acheter leur billet sans même connaître le programme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Soutenir l’association Agile France&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vous connaissez notre association “mère”. Elle a pour but de soutenir la communauté Agile francophone. Cette association est la vôtre et vous pouvez (devez ?) la soutenir ! Cette année, vous pouvez prendre une cotisation (à partir de 14,99€) en même temps que votre billet pour la conf.&lt;/p&gt;
+&lt;p&gt;Bonus : le &lt;strong&gt;polo Agile France brodé à votre nom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vous avez adoré le polo des organisateurs 2013 ? Et bien vous pouvez l’avoir - en mieux - cette année. Nous vous proposons, en même temps que la réservation de votre place, de commander votre polo, brodé avec le logo Agile France et deux lignes de texte pour afficher fièrement votre prénom et vos titre de gloire (ex: “Julien / 67565 Doodle Jump”)&lt;/p&gt;
+&lt;p&gt;Et l’&lt;strong&gt;appel à orateurs&lt;/strong&gt;, c’est pour quand ?&lt;/p&gt;
+&lt;p&gt;Nous sommes en train de travailler sur l’outil de call-for-paper et les modalités de constitution du programme… Stay tuned !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Je compte déposer un sujet, je prends ma place au cas où ?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Non, pas tout de suite. Si votre sujet n’est pas retenu, vous aurez quelques jours supplémentaires pour acheter votre place au tarif “fan club”.&lt;/p&gt;
+&lt;p&gt;Merci :-) &lt;/p&gt;
+&lt;p&gt;L’équipe d’organisation 2014,
+Caroline, Stéphanie, Julien, Fred, David, Eric et Damien&lt;/p&gt;</summary></entry><entry><title>Quelques présentations de l'édition 2013 sur InfoQ</title><link href="http://www.conference-agile.fr/quelques-presentations-de-ledition-2013-sur-infoq.html" rel="alternate"></link><updated>2013-10-31T15:30:00+01:00</updated><author><name>Damien Thouvenin</name></author><id>tag:www.conference-agile.fr,2013-10-31:quelques-presentations-de-ledition-2013-sur-infoq.html</id><summary type="html">&lt;p&gt;Vous avez raté l'édition 2013 ? Vous y étiez mais vous aviez oublié la machine à cloner et vous ne pouviez pas participer à deux sessions en même temps ? &lt;/p&gt;
+&lt;p&gt;Avec un peu de chance, une des sessions que vous vouliez voir a été filmée par InfoQ : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/agile-equipe-particuliere"&gt;Une équipe si particulière&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/une-equipe-si-particuliere.html"&gt;Jean-Francois Jagodzinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/agilistes-noubliez-pas-la-technique"&gt;Agilistes n'oubliez pas la technique&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/agilistes-noubliez-pas-la-technique.html"&gt;Xavier Nopre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/travailler-oui-avec-plaisir"&gt;Travailler ? Oui, avec plaisir !&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/travailler-oui-avec-plaisir.html"&gt;Pierrick Thibault&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/paradoxes-leadership"&gt;Les paradoxes du Leadership&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/les-paradoxes-du-leadership.html"&gt;Thomas Lissajoux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/kai-scene-agilite-theatre"&gt;Kai-Scène ou ce que j'ai appris de l'agilité au théâtre&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/kai-scene-ou-ce-que-jai-appris-de-lagilite-au-theatre.html"&gt;Christophe Keromen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/anthropologie-agile"&gt;Anthropologie de l'Agile&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/anthropologie-de-lagile.html"&gt;Christian Fauré&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/fr/presentations/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale"&gt;Plus d'Agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale&lt;/a&gt; de &lt;a href="http://www.conference-agile.fr/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html"&gt;Michel Hervé&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bonne lecture vidéo et n'oubliez pas de &lt;a href="http://www.conference-agile.fr/"&gt;réserver votre place pour l'édition 2014&lt;/a&gt; !&lt;/p&gt;</summary></entry><entry><title>Rendez-vous en 2014</title><link href="http://www.conference-agile.fr/index.html" rel="alternate"></link><updated>2013-10-22T20:10:00+02:00</updated><author><name>l'Équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2013-10-22:index.html</id><summary type="html">&lt;p&gt;&lt;span class="soon-med"&gt;
+  Agile France aura lieu les &lt;strong&gt;jeudi 22&lt;/strong&gt; et &lt;strong&gt;vendredi 23 mai&lt;/strong&gt; 2014 au &lt;a href="https://maps.google.fr/maps?ie=UTF-8&amp;amp;cid=0,0,5262208505098551486&amp;amp;ei=KIEqUd2HE4HL0QWtw4DgDA&amp;amp;ved=0CJgBEPwSMAA"&gt;Chalet de la Porte Jaune&lt;/a&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Notre but : permettre aux &lt;strong&gt;praticiens avancés&lt;/strong&gt; de se réunir et d'échanger
+pour &lt;strong&gt;apprendre&lt;/strong&gt; en dehors des sentiers battus. A ce stade, vous avez 2 options : 
+&lt;ol&gt;
+&lt;li&gt;Vous êtes fan, sûr(e) de venir ? Prenez dès maintenant votre billet à prix ultra promotionnel (cf. ci-après).&lt;/li&gt;
+&lt;li&gt;Vous avez envie de monter sur scène ? Pour déposer un sujet, c'est trop tard ! L'appel à orateurs est fermé. Que cela ne vous empêche pas de prendre votre billet tout de suite : vous pourrez proposer votre sujet lors de &lt;a href="http://2014.conference-agile.fr/sessions/open-space.html"&gt;l'open-space du jeudi après-midi&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+&lt;iframe src="https://www.weezevent.com/widget_billeterie.php?id_evenement=48375&amp;amp;code=21772&amp;amp;cas=1&amp;amp;resize=0&amp;amp;multi=0" width="650" height="600" scrolling="auto" frameborder="0" id="weezuniq48375"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a name="billeterie"&gt;&amp;nbsp;&lt;/a&gt;&lt;/p&gt;</summary><category term="billets"></category></entry><entry><title>Le livret</title><link href="http://www.conference-agile.fr/livret-disponible-pour-impression.html" rel="alternate"></link><updated>2013-05-19T13:00:00+02:00</updated><author><name>Eric</name></author><id>tag:www.conference-agile.fr,2013-05-19:livret-disponible-pour-impression.html</id><summary type="html">&lt;p&gt;Nous venons d'arrêter le &lt;a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013.pdf"&gt;programme définitif&lt;/a&gt; (quelques ajustements sur les créneaux et affectations de salle ont été faits) et nous vous proposons également un outil pour préparer vos 2 jours de conférence.
+Vous trouverez disponible en ligne &lt;a href="http://www.conference-agile.fr/static/programme/livret-agile-france-2013.pdf"&gt;le Livret de la conférence&lt;/a&gt;. Ce document de 42 pages (Frederic, tu es un vrai geek ... ;-) ) est fait pour être imprimé si vous le souhaitez.&lt;/p&gt;</summary></entry><entry><title>Personnalisez votre badge !</title><link href="http://www.conference-agile.fr/personnaliser-son-badge.html" rel="alternate"></link><updated>2013-05-19T13:00:00+02:00</updated><author><name>Ellène</name></author><id>tag:www.conference-agile.fr,2013-05-19:personnaliser-son-badge.html</id><summary type="html">&lt;p&gt;Nous vous proposons des &lt;strong&gt;badges personnalisés&lt;/strong&gt; lors de la conférence, afin de favoriser les interactions.
+Vous trouverez sur le lien suivant quelques exemples d'un &lt;a href="https://docs.google.com/file/d/0BxUGZYBP6XciZnduaDFTSkF5eXc/edit"&gt;premier draft&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pour partager votre informations, nous vous proposons le formulaire suivant (s'il ne s'affiche pas, vous avez un blocage du site, &lt;a href="https://docs.google.com/forms/d/1zclJk1RYzm71vGEUZvMiU1VHUK2IczKpGeXgJ4ZQ4dI/viewform"&gt;voici l'url&lt;/a&gt;.
+Ne tardez pas à nous partager vos informations pour que nous ayons le temps de préparer votre badge.&lt;/p&gt;
+&lt;iframe src="https://docs.google.com/forms/d/1zclJk1RYzm71vGEUZvMiU1VHUK2IczKpGeXgJ4ZQ4dI/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"&gt;Chargement en cours...&lt;/iframe&gt;</summary></entry><entry><title>Parcours non-informatique</title><link href="http://www.conference-agile.fr/parcours-non-informatique.html" rel="alternate"></link><updated>2013-05-16T20:00:00+02:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2013-05-16:parcours-non-informatique.html</id><summary type="html">&lt;p&gt;Coup de fil d'un ami chef d'entreprise ce week-end: "Je viens à Agile France mais je ne suis pas informaticien, je ne comprends rien à la technique. Tu peux me conseiller des sessions ?"&lt;/p&gt;
+&lt;p&gt;C'est chose faite ! J'ai sélectionné, de manière totalement subjective et arbitraire, 29 sessions qui plairont aussi aux non-informaticiens: &lt;/p&gt;
+&lt;p&gt;d'abord la &lt;a href="http://www.conference-agile.fr/sessions/from-value-to-values-why-management-has-to-change-and-how-it-is-inspiring-the-solution.html"&gt;Keynote, de Peter Stevens, sur le mouvement Stoos&lt;/a&gt; (en anglais par contre).&lt;/p&gt;
+&lt;p&gt;Ensuite : &lt;/p&gt;
+&lt;p&gt;Des outils pour des équipes performantes et épanouies
+- &lt;a href="http://www.conference-agile.fr/sessions/collaborer-et-si-on-improvisait.html"&gt;Collaborer, et si on improvisait ?&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/usages-de-la-cnv-en-agilite.html"&gt;Usages de la CNV en Agilité&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/maitrise-de-la-dette-dequipe-levier-de-performance-et-de-reussite.html"&gt;Maîtrise de la dette d'équipe : levier de performance et de réussite&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/travailler-oui-avec-plaisir.html"&gt;Travailler ? Oui avec plaisir !&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/storytelling-battle-pour-enclencher-le-changement-creer-son-histoire.html"&gt;Storytelling Battle - pour enclencher le changement, créer son histoire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Des jeux
+- &lt;a href="http://www.conference-agile.fr/sessions/le-tuteur.html"&gt;Le jeu du Tuteur&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/cynefin-lego-game-quelle-est-la-complexite-de-votre-systeme.html"&gt;Cynefin lego game : quelle est la complexité de votre système?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Des entreprises agiles et des réflexions sur le rôle du chef
+- &lt;a href="http://www.conference-agile.fr/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html"&gt;Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html"&gt;Me PME Agile (Work in Progress)&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/votre-nouveau-defi-deployer-lagilite-dans-votre-organisation.html"&gt;Votre nouveau défi : Déployer l'agilité dans votre organisation !&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html"&gt;Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/de-lidee-a-la-startup-comment-concevoir-un-produit-exceptionnel.html"&gt;De l'idée à la startup, comment concevoir un produit exceptionnel&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/leader-en-tant-quhote.html"&gt;Le leader en tant qu'hôte&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/les-paradoxes-du-leadership.html"&gt;Les paradoxes du Leadership&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/sociagilite-le-management-agile-40.html"&gt;Sociagilité: la management agile 4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De la prise de hauteur 
+- &lt;a href="http://www.conference-agile.fr/sessions/anthropologie-de-lagile.html"&gt;Anthropologie de l'Agile&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/lart-davoir-tort.html"&gt;L'art d'avoir tort&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/je-vois-ou-comment-la-visualisation-non-conventionnelle-contribue-a-des-projets-agiles.html"&gt;Je vois !&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/quand-lagilite-sessouffle.html"&gt;Quand l'agilité s'essouffle&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html"&gt;Agilité : do the wrong thing faster ?&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/le-respect-en-action.html"&gt;Le Respect en action&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/real-options-quand-et-comment-ne-pas-prendre-des-decisions.html"&gt;Real Options: quand et comment (ne pas) prendre des décisions&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html"&gt;Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Des transpositions à d'autres domaines
+- &lt;a href="http://www.conference-agile.fr/sessions/le-tango-un-outil-ludique-et-profond-pour-revisiter-le-travail-dequipe-son-leadership-et-son-followership.html"&gt;Le tango : un outil ludique et profond pour revisiter le travail d'équipe, son leadership et son followership&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/kai-scene-ou-ce-que-jai-appris-de-lagilite-au-theatre.html"&gt;Kai-Scène ou ce que j'ai appris de l'agilité au théâtre&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/a2gi2le-pour-avancer-dans-un-monde-incertain.html"&gt;A²GI²LE pour avancer dans un monde incertain&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/lagilite-une-nouvelle-facon-denseigner.html"&gt;L'agilité: une nouvelle façon d'enseigner ?&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/personal-kanban-retrouvez-votre-efficacite.html"&gt;Personal Kanban: retrouvez votre efficacité !&lt;/a&gt;
+- &lt;a href="http://www.conference-agile.fr/sessions/ce-que-le-sport-ma-appris-dagile.html"&gt;Ce que le sport m'a appris d'agile&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Faire un pitch vidéo</title><link href="http://www.conference-agile.fr/faire-un-pitch-video.html" rel="alternate"></link><updated>2013-05-15T18:00:00+02:00</updated><author><name>Caroline Damour-Nobi</name></author><id>tag:www.conference-agile.fr,2013-05-15:faire-un-pitch-video.html</id><summary type="html">&lt;p&gt;Vous avez envie de faire découvrir votre session plus largement ?
+N'hésitez pas !
+Faites un pitch vidéo que nous ajouterons à votre descriptif de session et que nous relaierons sur twitter&lt;/p&gt;
+&lt;p&gt;Certains l'ont déjà fait, regardez &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html#.UY_XGbVNRQ0"&gt;Ma petite entreprise agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.conference-agile.fr/sessions/lagilite-vue-dun-partenaire-off-shore.html#.UY_XZLVNRQ0"&gt;L'agilité vue d'un partenaire off-shore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html#.UY_X2bVNRQ0"&gt;Agilité : do the wrong thing faster ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le retour de Damien pour réaliser sa vidéo&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;J'ai pris 5-10 minutes pour poser ce que je voulais dire et je l'ai raffiné jusqu'à le ramener à 3 ou 4 points que j'ai résumés chacun par un seul mot. &lt;/li&gt;
+&lt;li&gt;J'ai écrit les 4 mots en gros sur un paper board puis j'ai mis mon appareil photo sur un pied et je me suis planté devant.&lt;/li&gt;
+&lt;li&gt;2 à 4 prises selon mes bafouillages et c'était dans la boite. &lt;/li&gt;
+&lt;li&gt;J'ai recoupé avec Windows Movie Maker puis YouTube.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Et celui de Patrice :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;j'ai choisi la solution technique la plus simple : assis dans mon fauteuil devant ma webcam, avec la page d'accueil de la session dans mon dos&lt;/li&gt;
+&lt;li&gt;j'ai préparé une page A4 avec la trame du discours, trame inspirée du modèle QQOQCP (Qui, Quoi, Où, Quand, Comment, Pourquoi)&lt;/li&gt;
+&lt;li&gt;j'ai répété plusieurs fois le discours jusqu'à ce qu'il soit fluide. &lt;/li&gt;
+&lt;li&gt;je me suis enregistré jusqu'à obtenir un discours fluide et clair, avec la trame sous les yeux&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Vous pouvez réaliser vous même toute l’opération et nous transmettre le lien vers la vidéo en ligne pour mise à jour de la page descriptive de votre session.
+Nous pouvons aussi essayer d'organiser quelque chose pour vous aider le cas échéant.
+Contactez-nous ! &lt;/p&gt;</summary></entry><entry><title>Agile France c'est (presque) demain !</title><link href="http://www.conference-agile.fr/agile-france-cest-presque-demain.html" rel="alternate"></link><updated>2013-05-15T11:31:00+02:00</updated><author><name>Stéphanie Paina</name></author><id>tag:www.conference-agile.fr,2013-05-15:agile-france-cest-presque-demain.html</id><summary type="html">&lt;h4&gt;C'est bientôt !&lt;/h4&gt;
+&lt;p&gt;La Conférence Agile France 2013 aura lieu les jeudi 23 et vendredi 24 mai prochain, au Chalet de la Porte Jaune, à Paris.
+Cette année, la conférence a pour but de permettre aux praticiens avancés de se réunir et d'échanger pour apprendre en dehors des sentiers battus.&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;&lt;a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013-draft-3.pdf"&gt;programme&lt;/a&gt;&lt;/strong&gt; - élaboré à partir de plus de 125 propositions de sessions - reflète la volonté d'évoquer les pratiques agiles dans tous les métiers de l'IT et hors-IT, avec des thèmes et formats variés : du live coding, de la technique, du management, du coaching, des retours d’expérience, des ateliers, etc&lt;/p&gt;
+&lt;h4&gt;Espaces collaboratifs&lt;/h4&gt;
+&lt;p&gt;Durant les 2 jours de conférence, un espace sera réservé pour la communauté. A vous de vous en emparer ! 
+Suggérez vos idées ou votez pour celles qui existent déjà sur &lt;strong&gt;&lt;a href="http://conference-agile.ideascale.com/"&gt;Ideascale&lt;/a&gt;&lt;/strong&gt;, ou proposez des rendez-vous sur &lt;strong&gt;&lt;a href="http://lite.framapad.org/p/Agile_France_2013"&gt;Framapad&lt;/a&gt;&lt;/strong&gt; !
+Les personnes qui se présenteront seront forcément les bonnes !&lt;/p&gt;
+&lt;h4&gt;N'oubliez pas votre place&lt;/h4&gt;
+&lt;p&gt;Si vous n'avez pas encore pris votre place, rendez-vous sur &lt;strong&gt;&lt;a href="http://www.conference-agile.fr"&gt;notre site&lt;/a&gt;&lt;/strong&gt;  avant le 17 mai. Les places partent vite, ne tardez pas ;-)&lt;/p&gt;</summary></entry><entry><title>Qui aller voir ?</title><link href="http://www.conference-agile.fr/qui-aller-voir.html" rel="alternate"></link><updated>2013-05-13T15:30:00+02:00</updated><author><name>Jonathan Scher</name></author><id>tag:www.conference-agile.fr,2013-05-13:qui-aller-voir.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.conference-agile.fr/static/programme/programme-agile-france-2013-draft-3.pdf"&gt;Quel beau programme !&lt;/a&gt; Vous avez du mal à choisir les sessions que vous souhaitez voir ? C'est normal !&lt;/p&gt;
+&lt;p&gt;Quelques critères qui peuvent vous aider...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Certaines session ont publié du contenu en ligne !&lt;/li&gt;
+&lt;li&gt;Les choix des relecteurs ont été mis en avant&lt;/li&gt;
+&lt;li&gt;Nous avons une liste des 10 sessions attirant le plus de curieux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contenus en ligne&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt; Voici les slides de la session &lt;a href="http://www.conference-agile.fr/sessions/rex-comment-diffuser-massivement-une-approche-kanban.html"&gt;"REX : Comment diffuser massivement une approche Kanban"&lt;/a&gt;, de &lt;a href="http://www.conference-agile.fr/bios/samuel-retiere.html"&gt;Samuel Retiere&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/20426286" width="560" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;p&gt;&lt;b&gt;Le pitch vidéo de &lt;a href="http://www.conference-agile.fr/bios/pierre-pezziardi.html"&gt;Pierre Pezziardi&lt;/a&gt;, pour sa session &lt;a href="http://www.conference-agile.fr/sessions/agilite-do-the-wrong-thing-faster.html"&gt;"Agilité : do the wrong thing faster ?"&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/nDLjplZ_0yw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;b&gt;Celles de &lt;a href="http://www.conference-agile.fr/bios/damien-thouvenin.html"&gt;Damien Touvenin&lt;/a&gt;. Voici &lt;a href="http://www.conference-agile.fr/sessions/ma-pme-agile-work-in-progress.html"&gt;"Ma PME Agile (work in progress)"&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/cmwfUnFmSW4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;b&gt;En duo avec &lt;a href="http://www.conference-agile.fr/bios/lan-levy.html"&gt;Lan Levy&lt;/a&gt;, &lt;a href="http://www.conference-agile.fr/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html"&gt;Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/4PGR1sKc4rg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;b&gt;Et le pitch de &lt;a href="/sessions/lagilite-vue-dun-partenaire-off-shore.html"&gt;L'agilité vue d'un partenaire off-shore&lt;/a&gt;, par  &lt;a href="http://www.conference-agile.fr/bios/hoang-anh-phan.html"&gt;Hoang-Anh Phan&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/b2SEiAq4KVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Session attrape-curieux&lt;/h2&gt;
+
+&lt;p&gt;Nous avons des statistiques très avancées sur les descriptions détaillées des sessions. Voici, par ordre de nombre de visiteurs, les descriptions des sessions qui ont attiré le plus de personnes jusqu'à ce matin...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/sessions/agilistes-noubliez-pas-la-technique.html"&gt;Agilistes : n'oubliez pas la technique !&lt;/a&gt; - 137 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html"&gt;Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?&lt;/a&gt; - 87 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/lagilite-vue-dun-partenaire-off-shore.html"&gt; L'agilité vue d'un partenaire off-shore&lt;/a&gt; - 90 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/coacher-des-managers.html"&gt;Coacher des managers&lt;/a&gt; - 88 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html"&gt;Imaginer l’entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes&lt;/a&gt; - 88 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/ma-pme-agile-work-in-progress.html"&gt;Ma PME Agile (work in progress)&lt;/a&gt; - 73 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/communautes-de-pratique-en-pratique.html"&gt;Communautés de pratique en pratique&lt;/a&gt; - 67 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/le-serveur-qui-fait-ping.html"&gt;Le serveur qui fait ping&lt;/a&gt; - 66 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html"&gt;Vous pouvez ignorer les controleurs de gestion; les controleurs de gestion eux ne vous ignoreront pas !&lt;/a&gt; - 64 affichages&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sessions/atelier-rh-team.html"&gt;Atelier RH Team&lt;/a&gt; - 61 affichages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Choix des relecteurs&lt;/h2&gt;
+
+&lt;p&gt;Nous avions également mis en avant &lt;a href="http://www.conference-agile.fr/nos-favoris.htm"&gt;le choix de nos relecteurs&lt;/a&gt; de session !&lt;/p&gt;
+&lt;p&gt;Vous voulez en savoir plus sur une session en particulière ? N'hésitez pas à nous demander, nous relaieront votre question à l'orateur.&lt;/p&gt;
+&lt;p&gt;A bientôt,&lt;/p&gt;
+&lt;p&gt;Jonathan Scher pour l'équipe d'organisation d'Agile France&lt;/p&gt;</summary><category term="sessions"></category></entry><entry><title>Préparer la conférence</title><link href="http://www.conference-agile.fr/preparer-la-conference.html" rel="alternate"></link><updated>2013-04-29T23:15:00+02:00</updated><author><name>Frederic Merizen</name></author><id>tag:www.conference-agile.fr,2013-04-29:preparer-la-conference.html</id><summary type="html">&lt;p&gt;Dans moins d'un mois, la conférence Agile France 2013 ouvrira ses portes au Chalet de la Porte Jaune.&lt;/p&gt;
+&lt;p&gt;Orateur ou simple participant, nous vous proposons deux outils mieux préparer la conférence :&lt;/p&gt;
+&lt;h4&gt;Répétez une session avant la conférence&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Apéros agiles, petit-dej agiles, lunch-break agiles, ... tous les moments sont bons pour perfectionner sa session !&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Le meetup &lt;strong&gt;&lt;a href="http://www.meetup.com/Repetitions-Agile-France-Perfection-Games/"&gt;Repetitions Agile France - Perfection Games&lt;/a&gt;&lt;/strong&gt; réunit la communauté des agilistes actifs autour de la conférence Agile France. Son but est de permettre aux orateurs de roder leur session avant le jour J en la jouant devant un petit comité bienveillant.&lt;/p&gt;
+&lt;p&gt;Que vous soyez orateur ou que vous souhaitiez hoster une répétition, tout le monde peut jouer : créez une rencontre, proposez un sujet et/ou un lieu et invitez qui vous voulez. Il n'est même pas nécessaire d'avoir son billet pour venir !&lt;/p&gt;
+&lt;h4&gt;Enrichissez votre conférence&lt;/h4&gt;
+&lt;p&gt;Nous vous proposons une &lt;strong&gt;&lt;a href="http://lite.framapad.org/p/Agile_France_2013"&gt;page Framapad&lt;/a&gt;&lt;/strong&gt; pour coordonner vos activités pendant la conférence.
+Cette page vous appartient, voici quelques idées de ce que vous pouvez en faire - et n'hésitez pas à aller au delà.&lt;/p&gt;
+&lt;h5&gt;Préparer une activité pour l'espace communautaire&lt;/h5&gt;
+&lt;p&gt;Pendant la journée, nous laissons la salle petit déjeuner à la disposition de la communauté.
+À vous de vous en emparer !
+Utilisez le framapad pour préparer des activités et rassembler des personnes intéressées.&lt;/p&gt;
+&lt;h5&gt;Organiser votre séjour et transport&lt;/h5&gt;
+&lt;p&gt;Vous n'êtes pas parisien ? C'est l'occasion rêvée de parler d'agilité dans le train, et pourquoi pas faire du couchsurfing ?
+Trouvez des comparses agilistes grâce au framapad.&lt;/p&gt;
+&lt;h5&gt;Trouver des acolytes&lt;/h5&gt;
+&lt;p&gt;Vous voulez parler de Crystal, de TDD en Prolog, échanger avec une personne travaillant dans une équipe XP ?
+Vous êtes passionné de danse contemporaine, de photographie ou d'ikebana ?&lt;/p&gt;
+&lt;p&gt;Affichez vos centres d'intérêt sur le framapad et qui sait, peut-être ferez-vous la connaissance de quelqu'un partageant vos centres d'intérêt.&lt;/p&gt;
+&lt;h4&gt;Cette conférence est la vôtre !&lt;/h4&gt;
+&lt;p&gt;Emparez-vous de la conférence.
+Aidez-nous à faire en sorte que ce soit votre conférence.&lt;/p&gt;</summary></entry><entry><title>Agile France 2013 - Venir à Agile France</title><link href="http://www.conference-agile.fr/acces.html" rel="alternate"></link><updated>2013-04-28T22:37:00+02:00</updated><author><name>l'Équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2013-04-28:acces.html</id><summary type="html">&lt;p&gt;Cette année encore la conférence aura lieu au Châlet de la Porte Jaune à Paris.&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;Adresse : Avenue de Nogent, Bois de Vincennes, 75012 Paris, France&lt;/span&gt;&lt;/p&gt;
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?hl=fr&amp;amp;safe=off&amp;amp;ie=UTF8&amp;amp;q=chalet+de+la+porte+jaune&amp;amp;fb=1&amp;amp;gl=fr&amp;amp;hq=chalet+de+la+porte+jaune&amp;amp;hnear=chalet+de+la+porte+jaune&amp;amp;cid=5262208505098551486&amp;amp;t=w&amp;amp;iwloc=A&amp;amp;ll=48.838442,2.459403&amp;amp;spn=0.006295,0.006295&amp;amp;output=embed"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href="https://maps.google.fr/maps?hl=fr&amp;amp;safe=off&amp;amp;ie=UTF8&amp;amp;q=chalet+de+la+porte+jaune&amp;amp;fb=1&amp;amp;gl=fr&amp;amp;hq=chalet+de+la+porte+jaune&amp;amp;hnear=chalet+de+la+porte+jaune&amp;amp;cid=5262208505098551486&amp;amp;t=w&amp;amp;iwloc=A&amp;amp;ll=48.838442,2.459403&amp;amp;spn=0.006295,0.006295&amp;amp;source=embed"&gt;Agrandir le plan&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med color"&gt;En transport en commun&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Métro 1, Arrêt "Chateau de Vincennes", puis Bus 114 ou 210 arrêt "Porte Jaune".&lt;/p&gt;
+&lt;p&gt;RER A, Arrêt Fontenay-sous-Bois (direction Boissy-Saint-Léger), puis accessible à pied en 5 minutes.&lt;/p&gt;
+&lt;p&gt;Quelques sites pour vous aider à planifier votre itinéraire dans les transports en commun :
+&lt;a href="http://www.ratp.fr"&gt;RATP : Infos sur les BUS&lt;/a&gt;
+&lt;a href="http://www.transilien.com"&gt;Transilien.com : RER et Métro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med color"&gt;En voiture&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Coordonnées GPS : Latitude : 48.8404997 - Longitude : 2.4542036&lt;/p&gt;
+&lt;p&gt;En venant de l'est, par l’A4 (l'Autoroute de l’Est), prendre la sortie 4 puis la Route de la Ferme et continuer sur 600m.
+Au rond-point prendre à gauche Avenue de Tremblay et continuer sur 2,1 km.
+Prendre à droite Avenue de Nogent.&lt;/p&gt;
+&lt;p&gt;En venant de Paris, sortir du périphérique Porte de Vincennes et prendre la D120 (avenue de Paris, qui devient avenue de Nogent après le Château de Vincennes) en direction de Nogent sur Marne.
+Le Chalet de la Porte de Jaune est au milieu du bois de Vincennes, il sera sur votre droite.&lt;/p&gt;
+&lt;p&gt;Un parking gratuit se trouve à côté du lieu de la conférence.&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;&lt;a href="http://www.chaletportejaune.com/fr/index.php#situation-et-plan-d-acces.php"&gt;Plus d'informations sur le site du Châlet de la Porte Jaune&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="acces"></category></entry><entry><title>Consultez le programme !</title><link href="http://www.conference-agile.fr/consultez-le-programme.html" rel="alternate"></link><updated>2013-04-17T22:14:00+02:00</updated><author><name>comité de sélection</name></author><id>tag:www.conference-agile.fr,2013-04-17:consultez-le-programme.html</id><summary type="html">&lt;p&gt;Nous avons mis en ligne une
+&lt;del&gt;&lt;a href="/static/programme/programme-agile-france-2013-draft-1.pdf"&gt;première&lt;/a&gt;&lt;/del&gt; &lt;del&gt;&lt;a href="/static/programme/programme-agile-france-2013-draft-2.pdf"&gt;seconde&lt;/a&gt;&lt;/del&gt; &lt;del&gt;&lt;a href="/static/programme/programme-agile-france-2013-draft-3.pdf"&gt;troisième&lt;/a&gt;&lt;/del&gt; &lt;del&gt;&lt;a href="/static/programme/programme-agile-france-2013-draft-4.pdf"&gt;quatrième&lt;/a&gt;&lt;/del&gt; &lt;a href="/static/programme/programme-agile-france-2013.pdf"&gt;version finale du programme 2013&lt;/a&gt;.
+N'hésitez pas à le consulter pour vous faire une idée des sessions à venir !&lt;/p&gt;
+&lt;p&gt;Nous travaillons d'arrache-pied avec les orateurs pour finaliser le planning et mettre en ligne les descriptifs des sessions.&lt;/p&gt;</summary></entry><entry><title>Nos favoris</title><link href="http://www.conference-agile.fr/nos-favoris.html" rel="alternate"></link><updated>2013-04-03T08:30:00+02:00</updated><author><name>comité de sélection</name></author><id>tag:www.conference-agile.fr,2013-04-03:nos-favoris.html</id><summary type="html">&lt;p&gt;Le comité de sélection d'Agile France 2013 était réuni hier soir. 9 participants (merci à Ségolène, Caroline et Yannick qui nous ont rejoint pour l'occasion), une grosse centaine de propositions et 3 heures de travail et de discussions passionnées ont permis d'arriver à une short-list de 52 sujets.&lt;/p&gt;
+&lt;p&gt;Encore une fois, Agile France va marquer les mémoires. Au vu de la sélection, 2013 sera un grand cru ! N'oubliez pas de &lt;a href="/" title="billeterie Agile France 2013"&gt;réserver vos places&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La semaine prochaine nous vérifierons la cohérence de l'ensemble, l'équilibre entre les sujets et les formats puis nous publierons le programme. En attendant, voici nos 9 propositions favorites:&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/vous-pouvez-ignorer-les-controleurs-de-gestion-les-controleurs-de-gestion-eux-ne-vous-ignoreront-pas.html"&gt;Vous pouvez ignorer les contrôleurs de gestion; les contrôleurs de gestion eux ne vous ignoreront pas!&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Pierre Hervouet, Pascal van Cauwenberghe&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Yannick: "La session est un peu décalée. L'agilité dans d'autres contextes : Marketing, Psychologie"&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/agilistes-noubliez-pas-la-technique.html"&gt;Agilistes, n'oubliez pas la technique&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Xavier Nopre&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Ellène: "Nous parlons de l'agilité en dehors des sentiers battus. Il n'y a pas que les cérémonies dans l'agilité, la technique aussi compte. Cela apportera beaucoup aux agilistes que nous sommes."&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/plus-dagilite-apporte-t-elle-plus-de-bonheur-dans-laction-entrepreneuriale.html"&gt;Plus d'agilité apporte-t-elle plus de bonheur dans l'action entrepreneuriale ?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Michel Hervé&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Damien: "Retour d'expérience d'un chef d'entreprise qui a créé sa boite en 1976 et construit un groupe agile et fractal de 2400 personnes selon des principes totalement agiles. Je veux faire pareil !"&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/mais-pourquoi-y-mecoute-pas.html"&gt;Mais pourquoi y m'écoute pas ?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Florence Chabanois&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Stéphanie: "Baillonner son "moi-je", comprendre et écouter efficacement pour mieux travailler en équipe et se faire entendre."&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/le-serveur-qui-fait-ping.html"&gt;Le serveur qui fait ping&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Emmanuel Gaillot et Jonathan Perret&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Fred: "Nos valeureux héros codeurs vont au fond de la Moria vaincre le Balnode.js et en remontent avec une session de TDD qui s'annonce passionnante."&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/imaginer-lentreprise-agile-avec-le-consensus-workshop-un-outil-de-facilitation-pour-les-agilistes.html"&gt;Imaginer l'entreprise agile avec le Consensus Workshop, un outil de facilitation pour les agilistes&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Lan Levy / Damien Thouvenin&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Caro: "Pour avoir l'opportunité en une seule session à la fois de travailler la question de l'entreprise agile et de découvrir un nouvel outil de facilitation."&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/code-legacy-faire-evoluer-ou-re-ecrire.html"&gt;Code Legacy : faire évoluer ou ré-écrire ?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Cyrille Martraire&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Eric: "Pour la volonté d'apporter constamment de la valeur, le courage d'appliquer les valeurs du Craftsmanship tout en impliquant le métier. Trop facile de jeter le legacy, un vrai challenge avec des outils c'est bien plus enrichissant !"&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/collaborer-et-si-on-improvisait.html"&gt;Collaborer, et si on improvisait ?&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Vincent Daviet&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Ségolène: "Il y a certaines notions comme l'écoute, la confiance, l'adaptation que l'improvisation pourrait nous aider à mieux comprendre."&lt;/p&gt;
+&lt;h4&gt;&lt;a href="/sessions/coacher-des-managers.html"&gt;Coacher des managers&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Antoine Contal&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Jonathan: "En agile, on coache des équipes. Super, mais en fait, c'est souvent plus haut que ça bloque. Une session sur le sujet pourrait peut être nous être utile !"&lt;/p&gt;</summary><category term="sessions"></category></entry><entry><title>Appel à jury</title><link href="http://www.conference-agile.fr/appel-a-jury.html" rel="alternate"></link><updated>2013-03-28T18:00:00+01:00</updated><author><name>Frederic Merizen</name></author><id>tag:www.conference-agile.fr,2013-03-28:appel-a-jury.html</id><summary type="html">&lt;p&gt;La construction du programme de la conférence avance !
+La prochaine étape : sélectionner les sessions retenues et construire une première version du programme.
+Nous avons reçu un grand nombre de sessions de qualité, et le choix s'annonce difficile.&lt;/p&gt;
+&lt;p&gt;Vous êtes un agiliste motivé et voulez nous aider ?
+Envoyez-nous un mail : &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;"&gt;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Le comité de sélection se tiendra les mardi 2 et 9 avril de 18h45 à 20h45 à Paris (métro Franklin Roosevelt).&lt;/p&gt;
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.fr/maps?q=50+avenue+des+champs+%C3%A9lys%C3%A9es&amp;amp;ie=UTF8&amp;amp;hnear=50+Avenue+des+Champs+%C3%89lys%C3%A9es,+75008+Paris,+%C3%8Ele-de-France&amp;amp;gl=fr&amp;amp;t=w&amp;amp;hq=&amp;amp;z=14&amp;amp;iwloc=A&amp;amp;ll=48.870136,2.306556&amp;amp;output=embed"&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href="http://maps.google.fr/maps?q=50+avenue+des+champs+%C3%A9lys%C3%A9es&amp;amp;ie=UTF8&amp;amp;hnear=50+Avenue+des+Champs+%C3%89lys%C3%A9es,+75008+Paris,+%C3%8Ele-de-France&amp;amp;gl=fr&amp;amp;t=w&amp;amp;hq=&amp;amp;z=14&amp;amp;iwloc=A&amp;amp;ll=48.870136,2.306556&amp;amp;source=embed"&gt;Agrandir le plan&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</summary><category term="agile france"></category><category term="soumissions"></category></entry><entry><title>Agile France 2013 - Orateur</title><link href="http://www.conference-agile.fr/orateur.html" rel="alternate"></link><updated>2013-03-11T00:01:00+01:00</updated><author><name>l'Équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2013-03-11:orateur.html</id><summary type="html">&lt;p&gt;&lt;span class="soon-med color"&gt;Vos session permettront aux praticiens avancés d'apprendre.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+L'appel à orateur a été clôturé &lt;span class="color"&gt;le dimanche 10 mars&lt;/span&gt; à minuit. Nous dénombrons &lt;span class="color"&gt;125 sessions soumises&lt;/span&gt;.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Nous voulons ouvrir la conférence aux pratiques agiles dans tous les métiers de l'IT (management, développement, MOA, test, ...) et hors IT.&lt;br /&gt;
+Voici &lt;a href="http://www.conference-agile.fr/revue.html"&gt;comment les sessions soumises vont être traitées&lt;/a&gt;.&lt;/p&gt;</summary><category term="orateur"></category></entry><entry><title>Agile France 2013 - Revue des sessions soumises</title><link href="http://www.conference-agile.fr/revue.html" rel="alternate"></link><updated>2013-03-10T23:00:00+01:00</updated><author><name>l'Équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2013-03-10:revue.html</id><summary type="html">&lt;p&gt;&lt;span class="soon-med color"&gt;Revue communautaire pour les soumissions de sessions&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+Vous avez déposé un sujet et vous vous demandez comment il sera évalué ? Vous avez proposé de donner un coup de main pour revoir les sujets et vous n'êtes plus très sûr des règles ? Cet article est fait pour vous.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med color"&gt;Objectifs&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+Notre intention est de proposer la meilleure conférence pour permettre aux praticiens agiles de continuer d'apprendre. Pour cela nous souhaitons aider les orateurs à proposer les meilleurs sujets.&lt;br /&gt;
+Nous avons donc fait appel à la communauté pour revoir les soumissions et suggérer des pistes d'amélioration.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med color"&gt;Petit jeu de perfectionnement&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+Nous demandons aux relecteurs de se livrer au "perfection game"&lt;sup&gt;(*)&lt;/sup&gt; : plutôt que de dire ce qui ne va pas, dire ce qui est bien et suggérer quelques pistes qui permettraient d'améliorer le pitch proposé.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+Libre ensuite aux orateurs d'en tenir compte ou pas et d'éditer, le cas échéant, une nouvelle version de leur proposition de session. 
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med color"&gt;Fin mars, la cloche sonne&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-med"&gt;
+On arrête de modifier les sujets et nous établissons le programme sur la base des dernières versions soumises. Ensuite, nous proposerons aux orateurs retenus de répéter leur session devant un public restreint pour se roder et être encore meilleurs les 23 et 24 mai.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(*) Le "Perfection Game" est un exercice tiré des "Core Protocols" de Jim &amp;amp; Michele Mac Carthy. Pour plus d'info vous pouvez télécharger une &lt;a href="http://www.mccarthyshow.com/wp-content/uploads/2011/02/Equipe+v2.0-1.2.doc" title="Core Protocols - Français"&gt;version française des 23 protocoles (dont le fameux Perfection Game)&lt;/a&gt; ou lire cet &lt;a href="http://partageons-ce-qui-nous-departage.com/perfection-game"&gt;article assez vivant sur la rencontre d'un consultant avec le &lt;span class="color"&gt;Pégé&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;</summary><category term="communauté"></category><category term="orateurs"></category><category term="propositions"></category></entry><entry><title>Déjà 91 soumissions - et quelques jours de plus pour soumettre</title><link href="http://www.conference-agile.fr/extension-soumissions.html" rel="alternate"></link><updated>2013-03-04T08:30:00+01:00</updated><author><name>Frederic Merizen</name></author><id>tag:www.conference-agile.fr,2013-03-04:extension-soumissions.html</id><summary type="html">&lt;p&gt;L'appel à orateurs prenait officiellement fin samedi 2 mars à minuit.&lt;br /&gt;
+Avec 88 sessions soumises, c'était déjà un succès.
+Depuis, 3 sessions de plus ont été soumises, et plusieurs orateurs potentiels nous ont contacté pour demander une petite rallonge.&lt;/p&gt;
+&lt;p&gt;Nous n'avons pas envie de claquer la porte au nez de ces sessions qui s'annoncent de qualité.
+D'un autre côté, nous voulons traiter tout le monde à la même enseigne.&lt;/p&gt;
+&lt;p&gt;C'est pourquoi nous &lt;span class='color'&gt;rallongeons l'appel à orateurs&lt;/span&gt; d'une semaine, jusqu'au &lt;span class='color'&gt;dimanche 10 mars à minuit&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/a/clt-services.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ&amp;amp;ifq"&gt;Le formulaire pour déposer une proposition c'est ici.&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Cet ami qui a promis de soumettre un sujet, mais n'a pas eu le temps ? Il lui reste une semaine pour passer à l'action.&lt;br /&gt;
+Vous-même avez un regret de dernière minute ? Ce sujet qui vous tient à coeur mais que vous n'avez pas pu présenter ? Il vous reste une semaine.&lt;/p&gt;
+&lt;p&gt;Mesdames, messieurs, à vos crayons.&lt;/p&gt;</summary><category term="orateur"></category></entry><entry><title>Vos souhaits de sujets pour Agile France 2013</title><link href="http://www.conference-agile.fr/souhaits-sujets.html" rel="alternate"></link><updated>2013-02-26T22:22:00+01:00</updated><author><name>Eric</name></author><id>tag:www.conference-agile.fr,2013-02-26:souhaits-sujets.html</id><summary type="html">&lt;p&gt;Nous vous avions sondés pour avoir des &lt;a href="/suggestions.html" title="suggestions d'orateurs"&gt;suggestions d'orateurs&lt;/a&gt; en janvier.&lt;/p&gt;
+&lt;p&gt;Il y a quelques jours nous vous partagions une première liste d'orateurs ayant soumis une session, mais également &lt;a href="/soumissions.html" title="informations sur les premières soumissions"&gt;les premiers thèmes&lt;/a&gt; qui se dégagaient de ces soumissions.&lt;/p&gt;
+&lt;p&gt;Aujourd'hui, alors qu'il ne reste que quelques jours aux orateurs pour soumettre une session, nous vous proposons de &lt;a href="https://docs.google.com/forms/d/1GjfkQICnRGEsK4xf40EuPGCRGZca6MjwnbJzrE12Al8/viewform" title="partagez nous vos souhaits de sujets"&gt;partager avec nous vos souhaits de sujets&lt;/a&gt; pouvant répondre à vos attentes d'apprentissage, et ceci quel que soit votre niveau d'expérience.&lt;/p&gt;
+&lt;p&gt;Le présent article reprendra (à une fréquence au minimum quotidienne) le contenu de vos souhaits, permettant ainsi à des orateurs de nous proposer des sessions en écho à ces attentes.&lt;/p&gt;
+&lt;p&gt;Voici les souhaits de sujets (ordre alphabétique avec nombre d'occurences) au 4 mars :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile Games (x2)&lt;/li&gt;
+&lt;li&gt;Agilité et Management&lt;/li&gt;
+&lt;li&gt;Agile et RH (x2), notamment l'évolution de carrière des développeurs&lt;/li&gt;
+&lt;li&gt;Agilité hors IT, par exemple dans une direction métier&lt;/li&gt;
+&lt;li&gt;Artisans logiciels indépendants (REX : sont-ils vraiment agile? quels résultats obtenus? les clients sont-ils satisfaits? comment parviennent-ils à gagner leur vie?)&lt;/li&gt;
+&lt;li&gt;Assurance qualité et Agilité&lt;/li&gt;
+&lt;li&gt;ATDD&lt;/li&gt;
+&lt;li&gt;Business agile, ingénierie du besoin, valeur business&lt;/li&gt;
+&lt;li&gt;Clean Code&lt;/li&gt;
+&lt;li&gt;Cloud (PaaS / IaaS) et Agilité&lt;/li&gt;
+&lt;li&gt;Coaching&lt;/li&gt;
+&lt;li&gt;Coaching d'organisations&lt;/li&gt;
+&lt;li&gt;Coach VS Coach Agile&lt;/li&gt;
+&lt;li&gt;Coach : sa place dans l'organisation à court et moyen terme&lt;/li&gt;
+&lt;li&gt;Contractualisation&lt;/li&gt;
+&lt;li&gt;Culture agile&lt;/li&gt;
+&lt;li&gt;DDD&lt;/li&gt;
+&lt;li&gt;Développement personnel&lt;/li&gt;
+&lt;li&gt;DevOps&lt;/li&gt;
+&lt;li&gt;eXtreme Programming&lt;/li&gt;
+&lt;li&gt;Kanban&lt;/li&gt;
+&lt;li&gt;Kanban avancé, multi équipes&lt;/li&gt;
+&lt;li&gt;Lean startup&lt;/li&gt;
+&lt;li&gt;Live coding et pratiques avancées de développement&lt;/li&gt;
+&lt;li&gt;Livraison et déploiement continu&lt;/li&gt;
+&lt;li&gt;NoSQL et Agilité&lt;/li&gt;
+&lt;li&gt;Organisation apprenante et tribal leadership&lt;/li&gt;
+&lt;li&gt;Quantified Self&lt;/li&gt;
+&lt;li&gt;Solution Focus&lt;/li&gt;
+&lt;li&gt;Software Craftsmanship (x2)&lt;/li&gt;
+&lt;li&gt;TDD (x2)&lt;/li&gt;
+&lt;li&gt;Transformation agile d'une organisation (au delà de l'équipe produit/projet)&lt;/li&gt;
+&lt;li&gt;Usine Logicielle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Une suggestion particulière : quelqu'un nous recommande de solliciter les speakers des meilleures session de &lt;a href="http://www.devoxx.com/display/FR13/Programmes" title="Programme Devoxx France"&gt;Devoxx France&lt;/a&gt; sur l'agilité.
+Dénoncez nous les sessions Devoxx France que vous voudriez voir également à Agile France ! Comment ? Envoyez un tweet à @AgileFrance avec le lien vers la session recommandée et le compte twitter du speaker :-)&lt;/p&gt;</summary><category term="agile france"></category><category term="souhaits"></category><category term="sujets"></category></entry><entry><title>Aperçu des premières soumissions pour Agile France 2013</title><link href="http://www.conference-agile.fr/soumissions.html" rel="alternate"></link><updated>2013-02-24T21:30:00+01:00</updated><author><name>Eric</name></author><id>tag:www.conference-agile.fr,2013-02-24:soumissions.html</id><summary type="html">&lt;p&gt;Nous attaquons la dernière ligne droite pour les soumissions : dans moins d'une semaine la date limite de soumission de session sera atteinte.
+Pour vous donner envie de soumettre vous aussi, voici les thèmes qui ressortent pour l'instant (triés par volume de soumission) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agilité : performance et résolution de crises / échecs&lt;/li&gt;
+&lt;li&gt;Recrutement&lt;/li&gt;
+&lt;li&gt;Agilité et management, leadership &lt;/li&gt;
+&lt;li&gt;Pratiques de tests&lt;/li&gt;
+&lt;li&gt;Attitude agile : parallèles avec d'autres activités non professionnelles&lt;/li&gt;
+&lt;li&gt;Activités touchant à la gestion de produit&lt;/li&gt;
+&lt;li&gt;Problématiques de coaching (au quotidien, sur la durée)&lt;/li&gt;
+&lt;li&gt;Le développeur / pratiques de développement&lt;/li&gt;
+&lt;li&gt;L'agilité dans l'organisation&lt;/li&gt;
+&lt;li&gt;Code Legacy&lt;/li&gt;
+&lt;li&gt;Agilité et jeux&lt;/li&gt;
+&lt;li&gt;L'avenir de l'agilité&lt;/li&gt;
+&lt;li&gt;Agilité et enseignement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si ces premières tendances vous inspirent, ou au contraire vous pensez à un thème non représenté, il est temps de nous &lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ" title="soumettre une proposition"&gt;soumettre votre proposition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mais quelle est l'identité de ceux qui ont jusque là soumis ?
+Sont représentés (par ordre décroissant) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les coachs agile&lt;/li&gt;
+&lt;li&gt;les formateurs&lt;/li&gt;
+&lt;li&gt;les consultants&lt;/li&gt;
+&lt;li&gt;les auteurs de livre&lt;/li&gt;
+&lt;li&gt;les architectes&lt;/li&gt;
+&lt;li&gt;les chefs d'entreprise&lt;/li&gt;
+&lt;li&gt;les managers&lt;/li&gt;
+&lt;li&gt;les spécialistes en méthodologie&lt;/li&gt;
+&lt;li&gt;les enseignants&lt;/li&gt;
+&lt;li&gt;les craftsmen&lt;/li&gt;
+&lt;li&gt;les leaders techniques&lt;/li&gt;
+&lt;li&gt;les développeurs&lt;/li&gt;
+&lt;li&gt;les chefs de projet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour finir, les tendances sur les formats :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;les conférences&lt;/li&gt;
+&lt;li&gt;les ateliers&lt;/li&gt;
+&lt;li&gt;les retours d'expérience&lt;/li&gt;
+&lt;li&gt;les quickie&lt;/li&gt;
+&lt;li&gt;les agile games&lt;/li&gt;
+&lt;li&gt;les katas&lt;/li&gt;
+&lt;li&gt;les discussions ouvertes&lt;/li&gt;
+&lt;li&gt;les interviews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enfin, vous voulez peut-être des noms ?
+Voici déjà ceux qui étaient listés dans les &lt;a href="/suggestions.html" title="suggestions d'orateurs"&gt;suggestions&lt;/a&gt; et qui ont répondu à l'appel (en espérant ne pas en avoir oublié) :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alexis Monville&lt;/li&gt;
+&lt;li&gt;Bertrand Dour&lt;/li&gt;
+&lt;li&gt;Jean-François Hélie&lt;/li&gt;
+&lt;li&gt;Jean-Pierre Vickoff&lt;/li&gt;
+&lt;li&gt;Laurent Bossavit&lt;/li&gt;
+&lt;li&gt;Laurent Sarrazin&lt;/li&gt;
+&lt;li&gt;Michel Hervé&lt;/li&gt;
+&lt;li&gt;Oana Juncu&lt;/li&gt;
+&lt;li&gt;Olivier Azeau&lt;/li&gt;
+&lt;li&gt;Pablo Pernot&lt;/li&gt;
+&lt;li&gt;Thierry Cros&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;D'autres orateurs cités tel que Alistair Cockburn, Peter Stevens, Nathaniel Richand, Xavier Nopre, Xavier Warzee, Antoine Contal, Arnaud Bailly, Aurélien Morvant, Christophe Thibault, Damien Thouvenin, et Régis Medina, envisagent sérieusement une soumission !
+Soit dit en passant, nous avons contacté, de manière directe ou indirecte, quasiment l'ensemble des orateurs cités :-)&lt;/p&gt;
+&lt;p&gt;Pour connaître les noms des autres orateurs ayant soumis une session, il faudra attendre encore un peu ...&lt;/p&gt;
+&lt;p&gt;A propos : il ne vous reste que jusqu'au 28 février pour profiter de l'&lt;a href="/" title="s'inscrire à la conférence"&gt;inscription au tarif early bird&lt;/a&gt;.&lt;/p&gt;</summary><category term="agile france"></category><category term="soumissions"></category><category term="thèmes"></category><category term="speakers"></category></entry><entry><title>Aidez-nous pour Agile France</title><link href="http://www.conference-agile.fr/appel.html" rel="alternate"></link><updated>2013-02-13T08:30:00+01:00</updated><author><name>Jonathan Scher</name></author><id>tag:www.conference-agile.fr,2013-02-13:appel.html</id><summary type="html">&lt;p&gt;Bonjour,&lt;/p&gt;
+&lt;p&gt;Agile France à besoin de vous !&lt;/p&gt;
+&lt;p&gt;Vous pouvez nous aider de trois façons :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ"&gt;En soumettant une session&lt;/a&gt;, avant la fin du mois&lt;/li&gt;
+&lt;li&gt;En relayant cet appel sur tous vos réseaux sociaux préférés&lt;/li&gt;
+&lt;li&gt;En devenant relecteur des pitchs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dans une démarche d’amélioration, nous revoyons tous les pitchs, et nous envoyons nos recommandations aux orateurs. Pour cela, nous avons besoin que des personnes intéressées par la conférence nous accordent un peu de temps, afin qu’elles lisent les pitchs, et qu’elles indiquent ce qui pourrait y être amélioré pour leur donner envie d’aller voir la session.
+Les avis de ces personnes seront pris en compte pour la sélection des sessions.&lt;/p&gt;
+&lt;p&gt;Vous voulez en faire partie ? Contactez-nous sur &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;"&gt;&amp;#99;&amp;#111;&amp;#110;&amp;#116;&amp;#97;&amp;#99;&amp;#116;&amp;#64;&amp;#99;&amp;#111;&amp;#110;&amp;#102;&amp;#101;&amp;#114;&amp;#101;&amp;#110;&amp;#99;&amp;#101;&amp;#45;&amp;#97;&amp;#103;&amp;#105;&amp;#108;&amp;#101;&amp;#46;&amp;#102;&amp;#114;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jonathan Scher, pour l’équipe d’organisation d’Agile France 2013.&lt;/p&gt;</summary><category term="orateur"></category></entry><entry><title>Agile France, la doyenne des conférences agiles à Paris</title><link href="http://www.conference-agile.fr/infos.html" rel="alternate"></link><updated>2013-02-06T22:05:00+01:00</updated><author><name>Damien</name></author><id>tag:www.conference-agile.fr,2013-02-06:infos.html</id><summary type="html">&lt;p&gt;Agile France est née en 2004, à l'époque sous le nom XP Days Paris. Aujourd'hui dans sa 8ème édition, Agile France c'est la conférence agile qui permet aux praticiens avancés de se réunir et d’échanger pour continuer d’apprendre en dehors des sentiers battus&lt;/p&gt;
+&lt;p&gt;Sans sponsors, entièrement financée par les ventes de billets, Agile France se veut le lieu de rencontre de tous les courants de l'agilité, dans mais aussi en hors de l'informatique, indépendemment de toute méthode, et toute entreprise.&lt;/p&gt;
+&lt;p&gt;Au programme des 23 et 24 mai...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;des sessions répétées et travaillées par des orateurs de portée nationale et internationale&lt;/li&gt;
+&lt;li&gt;des espaces communautaires ouverts aux associations soeurs, cousines, ou amies de l'agilité&lt;/li&gt;
+&lt;li&gt;des ateliers et des open spaces pour lier connaissance, travailler en groupe, échanger et se (re-)connaitre entre praticiens expérimentés&lt;/li&gt;
+&lt;li&gt;une conférence ouverte aux pratiques agiles novatrices (voire iconoclastes), dans tous les métiers y compris hors IT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enfin un grand défi : rendre cette conférence - votre conférence - la plus accessible à tous, et notamment aux sourds et malentendants.
+Pour tout ceci, et plus encore, nous avons besoin de vous : faites de la pub, &lt;a href="/orateur.html" title="appel à orateurs"&gt;proposez des sessions&lt;/a&gt;, &lt;a href="/index.html" title="réservations"&gt;achetez vos billets&lt;/a&gt;, &lt;a href="/suggestions.html" title="orateurs souhaités"&gt;suggérez des orateurs&lt;/a&gt; ... c'est à vous!&lt;/p&gt;</summary><category term="agile france"></category><category term="infos"></category><category term="présentation"></category></entry><entry><title>Vos suggestions d'orateurs pour la conférence</title><link href="http://www.conference-agile.fr/suggestions.html" rel="alternate"></link><updated>2013-01-23T20:20:00+01:00</updated><author><name>Jonathan Scher</name></author><id>tag:www.conference-agile.fr,2013-01-23:suggestions.html</id><summary type="html">&lt;p&gt;Bonjour à tous et à toutes !&lt;/p&gt;
+&lt;p&gt;Il y a peu, nous vous avions posé la question :
+&lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dFlCenVQcnc0Um9yVk9lSURSS25tMEE6MQ#gid=0"&gt;"quels orateurs francophones vous apprendraient des choses?"&lt;/a&gt; Vous avez été nombreux à nous répondre.
+En fin de ce poste, vous trouverez donc une première liste de 50 orateurs que vous avez envi de voir à Agile France.&lt;/p&gt;
+&lt;p&gt;Nous allons tenter de contacter tous les orateurs de cette liste, pour leur demander de soumettre une session.
+Ils suivront ensuite le processus normal de sélection, avec une attention particulière.&lt;/p&gt;
+&lt;p&gt;Vous nous avez également adressé une demande particulière, que nous serions content d'honorer.
+Il s'agirait de rendre la conférence accessible aux sourds et aux malentendants. Ce n'est pas quelque chose de simple,
+et ce ne sera pas forcément gratuit. Cependant, nous n'avons aucun objectif financier : si nous pouvons rendre Agile
+France accessible au plus grand nombre, ce sera un honneur pour nous !&lt;/p&gt;
+&lt;p&gt;Si vous aussi avez des choses à enseigner aux praticiens avancés, &lt;a href="https://docs.google.com/spreadsheet/viewform?formkey=dGpiVVJkSE1CV1dMeWxPMFVUQUZySmc6MQ"&gt;l'appel à orateur pour Agile France 2013&lt;/a&gt; est lancé !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alain Cardon &lt;/li&gt;
+&lt;li&gt;Alexandre Boutin (x2)&lt;/li&gt;
+&lt;li&gt;Alexis Monville&lt;/li&gt;
+&lt;li&gt;Alistair Cockburn (x2)&lt;/li&gt;
+&lt;li&gt;Antoine Contal (x3)&lt;/li&gt;
+&lt;li&gt;Arnaud Bailly&lt;/li&gt;
+&lt;li&gt;Aurélien Morvant&lt;/li&gt;
+&lt;li&gt;Bernard Marie Chiquet&lt;/li&gt;
+&lt;li&gt;Bernard Stiegler&lt;/li&gt;
+&lt;li&gt;Bertrand Dour&lt;/li&gt;
+&lt;li&gt;Bruno Latour&lt;/li&gt;
+&lt;li&gt;Bruno Sbille&lt;/li&gt;
+&lt;li&gt;Charlie Poole&lt;/li&gt;
+&lt;li&gt;Christophe Riboulet&lt;/li&gt;
+&lt;li&gt;Christophe Thibault (x3)&lt;/li&gt;
+&lt;li&gt;Claire Blondel&lt;/li&gt;
+&lt;li&gt;Claude Aubry&lt;/li&gt;
+&lt;li&gt;Damien Thouvenin&lt;/li&gt;
+&lt;li&gt;David Brocard&lt;/li&gt;
+&lt;li&gt;Dominic Williams (x5)&lt;/li&gt;
+&lt;li&gt;Emmanuel Gaillot (x2)&lt;/li&gt;
+&lt;li&gt;Emmanuelle Laborit&lt;/li&gt;
+&lt;li&gt;François Beauregard&lt;/li&gt;
+&lt;li&gt;Francois Wauquier&lt;/li&gt;
+&lt;li&gt;Frédéric Menou&lt;/li&gt;
+&lt;li&gt;Géry Derbier (x2)&lt;/li&gt;
+&lt;li&gt;James Grenning&lt;/li&gt;
+&lt;li&gt;Jean-Claude Grosjean&lt;/li&gt;
+&lt;li&gt;Jean-François Hélie&lt;/li&gt;
+&lt;li&gt;Jean-François Zobrist&lt;/li&gt;
+&lt;li&gt;Jean-Pierre Vickoff&lt;/li&gt;
+&lt;li&gt;JF Jagodzinski&lt;/li&gt;
+&lt;li&gt;Jonathan Perret (x2)&lt;/li&gt;
+&lt;li&gt;Karine Aubry&lt;/li&gt;
+&lt;li&gt;Laurent Bossavit (x3)&lt;/li&gt;
+&lt;li&gt;Laurent Morisseau (x4)&lt;/li&gt;
+&lt;li&gt;Laurent Sarrazin&lt;/li&gt;
+&lt;li&gt;Michel Hervé&lt;/li&gt;
+&lt;li&gt;Michel Serres&lt;/li&gt;
+&lt;li&gt;Nathaniel Richand&lt;/li&gt;
+&lt;li&gt;Oana Juncu&lt;/li&gt;
+&lt;li&gt;Octave Klaba&lt;/li&gt;
+&lt;li&gt;Olivier Azeau &lt;/li&gt;
+&lt;li&gt;Olivier Lafontan&lt;/li&gt;
+&lt;li&gt;Pablo Pernot&lt;/li&gt;
+&lt;li&gt;Pascal Jussac&lt;/li&gt;
+&lt;li&gt;Pascal Van Cauwenberghe (x5, Pascal si tu me lis, changes donc de nom, personne ne sait l'écrire sans faute !)&lt;/li&gt;
+&lt;li&gt;Patrice Petit&lt;/li&gt;
+&lt;li&gt;Patrick Sarfati&lt;/li&gt;
+&lt;li&gt;Peter Stevens&lt;/li&gt;
+&lt;li&gt;Philippe Ensarguet&lt;/li&gt;
+&lt;li&gt;Philippe Launay&lt;/li&gt;
+&lt;li&gt;Pierre Pezziardi&lt;/li&gt;
+&lt;li&gt;Raphael Perquin&lt;/li&gt;
+&lt;li&gt;Régis Médina (x5)&lt;/li&gt;
+&lt;li&gt;Régis Monot&lt;/li&gt;
+&lt;li&gt;Romain Duris&lt;/li&gt;
+&lt;li&gt;Sandrine Olivencia&lt;/li&gt;
+&lt;li&gt;Sylvie Lebail&lt;/li&gt;
+&lt;li&gt;Thierry Cros (x2)&lt;/li&gt;
+&lt;li&gt;Thierry Montulé (x2)&lt;/li&gt;
+&lt;li&gt;Tremeur Balbous&lt;/li&gt;
+&lt;li&gt;Xavier Nopre&lt;/li&gt;
+&lt;li&gt;Xavier Warzee&lt;/li&gt;
+&lt;li&gt;Yves Caseau&lt;/li&gt;
+&lt;li&gt;Yves Hanoulle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Jonathan Scher, pour l'équipe d'organisation d'Agile France 2013&lt;/p&gt;</summary><category term="orateur"></category></entry><entry><title>Agile France 2013</title><link href="http://www.conference-agile.fr/why.html" rel="alternate"></link><updated>2012-10-03T20:20:00+02:00</updated><author><name>l'Équipe d'organisation</name></author><id>tag:www.conference-agile.fr,2012-10-03:why.html</id><summary type="html">&lt;p&gt;&lt;span class="soon-med"&gt;
+  Agile France &lt;span class="color"&gt;jeudi 23&lt;/span&gt; et &lt;span class="color"&gt;vendredi 24 mai&lt;/span&gt; 2013
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="soon-big"&gt;
+  Permettre aux &lt;span class="color"&gt;praticiens avancés&lt;/span&gt; de se réunir et d'échanger&lt;br /&gt;
+  &lt;span class="color"&gt;pour apprendre&lt;/span&gt; en dehors des sentiers battus.
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Nous voulons permettre aux &lt;span class="color"&gt;agilistes&lt;/span&gt; qui ont une &lt;span class="color"&gt;expérience de terrain&lt;/span&gt; d'évoluer&lt;br /&gt;
+plutôt que d'évangéliser l'agilité auprès des novices.&lt;/p&gt;
+&lt;p&gt;Nous voulons offrir des &lt;span class="color"&gt;sessions répétées et travaillées&lt;/span&gt;&lt;br /&gt;
+par des orateurs de &lt;span class="color"&gt;portée nationale et internationale&lt;/span&gt;&lt;br /&gt;
+plutôt qu'un simple cadre.&lt;/p&gt;
+&lt;p&gt;Nous voulons offrir aux participants des occasions d'&lt;span class="color"&gt;échanger de manière informelle&lt;/span&gt;&lt;br /&gt;
+plutôt qu'une simple succession de sessions.&lt;/p&gt;
+&lt;p&gt;Nous voulons ouvrir la conférence aux pratiques agiles &lt;span class="color"&gt;novatrices voire iconoclastes&lt;/span&gt;&lt;br /&gt;
+plutôt que de la fermer sur l'orthodoxie d'une ou plusieurs méthodes.&lt;/p&gt;
+&lt;p&gt;Nous voulons ouvrir la conférence aux pratiques agiles dans &lt;span class="color"&gt;tous les métiers y compris hors IT&lt;/span&gt;&lt;br /&gt;
+plutôt que de la fermer sur un métier ou un rôle de coach, de manager ou de programmeur.&lt;/p&gt;</summary><category term="why"></category></entry></feed>
